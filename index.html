@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CRYPTO-RUN · Signal Arcade</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M8 8 L15 4 A7 7 0 1 0 15 12 Z' fill='%23ffff00'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div id="sample-banner" class="sample-banner" hidden>
+  <span class="blink">&#9733; SAMPLE DATA &#9733;</span>
+  <span class="sb-text">signals/lights_daily.csv not found yet &mdash; showing demo lights. The page switches to real signals automatically once it exists.</span>
+</div>
+
+<header class="arcade-top">
+  <div class="hud">
+    <div class="hud-cell"><span class="lbl">1UP &middot; EQUITY</span><span class="val" id="hud-equity">--</span></div>
+    <div class="hud-cell center"><span class="lbl">HIGH SCORE</span><span class="val" id="hud-high">--</span></div>
+    <div class="hud-cell right"><span class="lbl">DATA DATE</span><span class="val" id="hud-date">--</span></div>
+  </div>
+  <h1 class="title" aria-label="CRYPTO-RUN"><span class="t1">CRYPTO</span><canvas class="title-pac" id="title-pac" width="40" height="20" aria-hidden="true"></canvas><span class="t2">RUN</span></h1>
+  <p class="subtitle">TRAFFIC-LIGHT SIGNAL ARCADE</p>
+  <p class="mode" id="mode">INSERT COIN</p>
+</header>
+
+<section class="top-grid">
+  <div class="panel summary">
+    <h2 class="panel-title">SIGNAL BOARD</h2>
+    <div class="counters">
+      <div class="counter c-green"><canvas class="icon" data-icon="GREEN"></canvas><span class="num" id="n-green">0</span><span class="clbl">GREEN</span><span class="csub">POWER MODE</span></div>
+      <div class="counter c-yellow"><canvas class="icon" data-icon="YELLOW"></canvas><span class="num" id="n-yellow">0</span><span class="clbl">YELLOW</span><span class="csub">NORMAL PLAY</span></div>
+      <div class="counter c-red"><canvas class="icon" data-icon="RED"></canvas><span class="num" id="n-red">0</span><span class="clbl">RED</span><span class="csub">GHOST ATTACK</span></div>
+    </div>
+    <div class="breadth" id="breadth" aria-label="breadth bar"></div>
+    <ul class="legend">
+      <li><b class="g">GREEN</b> Power pellet! Pale, scared ghosts flee &mdash; we chase.</li>
+      <li><b class="y">YELLOW</b> Normal play &mdash; munching dots, colourful ghosts wander.</li>
+      <li><b class="r">RED</b> Angry BLUE ghosts chase Pac-Man &mdash; run!</li>
+    </ul>
+  </div>
+  <div class="panel portfolio">
+    <h2 class="panel-title">PAPER PORTFOLIO <span class="tag">SIMULATED</span></h2>
+    <div class="pf-stats" id="pf-stats"></div>
+    <div class="pf-table-wrap"><table class="pf-table" id="pf-table"></table></div>
+    <p class="pf-note" id="pf-note"></p>
+  </div>
+</section>
+
+<section class="demo-strip" aria-label="how to read the lanes">
+  <h2 class="panel-title demo-title">HOW TO PLAY <span class="tag">DEMO &mdash; NOT A SIGNAL</span></h2>
+  <div class="demo-grid">
+    <div class="demo GREEN"><div class="demo-lbl"><b>GREEN</b> POWER PELLET! Scared ghosts flee.</div><canvas class="maze demo-maze" data-demo="GREEN" data-label="CHASE"></canvas></div>
+    <div class="demo YELLOW"><div class="demo-lbl"><b>YELLOW</b> NORMAL PLAY: dots, ghosts wander.</div><canvas class="maze demo-maze" data-demo="YELLOW" data-label="MUNCH"></canvas></div>
+    <div class="demo RED"><div class="demo-lbl"><b>RED</b> GHOST ATTACK! Blue ghosts chase us.</div><canvas class="maze demo-maze" data-demo="RED" data-label="RUN"></canvas></div>
+  </div>
+</section>
+<p id="common-note" class="common-note" hidden></p>
+<main id="lanes" class="lanes"></main>
+
+<footer class="footer">
+  <div class="fruit" aria-hidden="true">
+    <svg viewBox="0 0 14 14" width="22" height="22"><path d="M7 1 Q9 4 10 7 M7 1 Q5 4 4 8" stroke="#de9751" stroke-width="1.2" fill="none"/><circle cx="4" cy="10" r="3" fill="#ff0000"/><circle cx="10" cy="9" r="3" fill="#ff0000"/><rect x="3" y="9" width="1" height="1" fill="#fff"/><rect x="9" y="8" width="1" height="1" fill="#fff"/></svg>
+    <svg viewBox="0 0 14 14" width="22" height="22"><path d="M7 2 L4 6 Q4 12 7 13 Q10 12 10 6 Z" fill="#ff0000"/><path d="M4 3 L7 1 L10 3 L7 4 Z" fill="#00c000"/><rect x="6" y="6" width="1" height="1" fill="#fff"/><rect x="8" y="9" width="1" height="1" fill="#fff"/><rect x="5" y="10" width="1" height="1" fill="#fff"/></svg>
+  </div>
+  <p class="nfa">NOT FINANCIAL ADVICE &mdash; PAPER ACCOUNT</p>
+  <p class="meta" id="meta">&nbsp;</p>
+  <p class="credit">CREDIT 00 &middot; &copy; CRYPTO-RUN</p>
+</footer>
+
+<!-- data.js is written by build_data.py; works from file:// too -->
+<script src="data.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
