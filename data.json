@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-20T09:21:46+01:00",
+ "generated_at": "2026-10-20T13:18:28+01:00",
  "is_sample": false,
  "data_date": "2026-10-20",
  "counts": {
@@ -11,32 +11,6 @@
  "common_note": "insufficient own history - chatter z from source series only",
  "coins": [
   {
-   "coin": "XMR",
-   "id": "monero",
-   "ticker": "XMR",
-   "name": "Monero",
-   "light": "YELLOW",
-   "score": 0.281,
-   "reasons": "healthy trend but no early signal/catalyst",
-   "note": null,
-   "price": 613.53,
-   "chg_24h_pct": 3.14791,
-   "prev_light": "YELLOW"
-  },
-  {
-   "coin": "NEAR",
-   "id": "near",
-   "ticker": "NEAR",
-   "name": "NEAR Protocol",
-   "light": "YELLOW",
-   "score": 0.264,
-   "reasons": "healthy trend but no early signal/catalyst",
-   "note": null,
-   "price": 4.75,
-   "chg_24h_pct": -6.51583,
-   "prev_light": "YELLOW"
-  },
-  {
    "coin": "LINK",
    "id": "chainlink",
    "ticker": "LINK",
@@ -45,8 +19,8 @@
    "score": 0.169,
    "reasons": "trend mixed (-6% vs 50d)",
    "note": null,
-   "price": 11.92,
-   "chg_24h_pct": -2.22434,
+   "price": 11.95,
+   "chg_24h_pct": -1.24934,
    "prev_light": "YELLOW"
   },
   {
@@ -58,8 +32,8 @@
    "score": 0.147,
    "reasons": "healthy trend but no early signal/catalyst",
    "note": null,
-   "price": 0.03234883,
-   "chg_24h_pct": -2.53833,
+   "price": 0.03202575,
+   "chg_24h_pct": -2.93266,
    "prev_light": "YELLOW"
   },
   {
@@ -69,10 +43,36 @@
    "name": "Ethereum",
    "light": "YELLOW",
    "score": 0.055,
-   "reasons": "trend mixed (-6% vs 50d); signal present but score 0.06 < 0.5",
+   "reasons": "trend mixed (-7% vs 50d); signal present but score 0.06 < 0.5",
    "note": null,
-   "price": 2384.84,
-   "chg_24h_pct": -1.99846,
+   "price": 2382.67,
+   "chg_24h_pct": -1.64137,
+   "prev_light": "YELLOW"
+  },
+  {
+   "coin": "XMR",
+   "id": "monero",
+   "ticker": "XMR",
+   "name": "Monero",
+   "light": "YELLOW",
+   "score": 0.048,
+   "reasons": "healthy trend but no early signal/catalyst",
+   "note": null,
+   "price": 606.21,
+   "chg_24h_pct": 3.16558,
+   "prev_light": "YELLOW"
+  },
+  {
+   "coin": "NEAR",
+   "id": "near",
+   "ticker": "NEAR",
+   "name": "NEAR Protocol",
+   "light": "YELLOW",
+   "score": 0.031,
+   "reasons": "healthy trend but no early signal/catalyst",
+   "note": null,
+   "price": 4.68,
+   "chg_24h_pct": -6.43239,
    "prev_light": "YELLOW"
   },
   {
@@ -84,8 +84,8 @@
    "score": 0.018,
    "reasons": "healthy trend but no early signal/catalyst",
    "note": null,
-   "price": 0.110806,
-   "chg_24h_pct": -0.36262,
+   "price": 0.109822,
+   "chg_24h_pct": -0.17416,
    "prev_light": "YELLOW"
   },
   {
@@ -97,8 +97,8 @@
    "score": -0.036,
    "reasons": "trend mixed (-0% vs 50d)",
    "note": null,
-   "price": 81385.0,
-   "chg_24h_pct": -1.69825,
+   "price": 81336.0,
+   "chg_24h_pct": -1.39073,
    "prev_light": "YELLOW"
   },
   {
@@ -108,10 +108,10 @@
    "name": "Avalanche",
    "light": "YELLOW",
    "score": -0.141,
-   "reasons": "7d -10% (momentum broken); trend mixed (-0% vs 50d)",
+   "reasons": "trend mixed (-1% vs 50d)",
    "note": null,
-   "price": 9.48,
-   "chg_24h_pct": -3.07502,
+   "price": 9.42,
+   "chg_24h_pct": -2.79933,
    "prev_light": "YELLOW"
   },
   {
@@ -121,10 +121,10 @@
    "name": "Zcash",
    "light": "YELLOW",
    "score": -0.142,
-   "reasons": "event 2026-10-20: NU7 mainnet activation height decision (R&D meetin; trend mixed (-11% vs 50d); signal present but score -0.14 < 0.5",
+   "reasons": "event 2026-10-20: NU7 mainnet activation height decision (R&D meetin; trend mixed (-10% vs 50d); signal present but score -0.14 < 0.5",
    "note": null,
-   "price": 1128.51,
-   "chg_24h_pct": -3.18775,
+   "price": 1140.99,
+   "chg_24h_pct": -0.59326,
    "prev_light": "YELLOW"
   },
   {
@@ -136,8 +136,8 @@
    "score": -0.19,
    "reasons": "trend mixed (-2% vs 50d)",
    "note": null,
-   "price": 79.51,
-   "chg_24h_pct": -1.71495,
+   "price": 79.4,
+   "chg_24h_pct": -1.49156,
    "prev_light": "YELLOW"
   },
   {
@@ -149,8 +149,8 @@
    "score": -0.201,
    "reasons": "event 2026-10-21: Alpenglow consensus upgrade on mainnet-beta: epoch; trend mixed (-5% vs 50d); signal present but score -0.20 < 0.5",
    "note": null,
-   "price": 104.12,
-   "chg_24h_pct": -1.56517,
+   "price": 104.02,
+   "chg_24h_pct": -1.07169,
    "prev_light": "YELLOW"
   },
   {
@@ -160,10 +160,10 @@
    "name": "Hedera",
    "light": "YELLOW",
    "score": -0.265,
-   "reasons": "trend mixed (-5% vs 50d)",
+   "reasons": "trend mixed (-6% vs 50d)",
    "note": null,
-   "price": 0.082868,
-   "chg_24h_pct": -2.15504,
+   "price": 0.082073,
+   "chg_24h_pct": -1.91671,
    "prev_light": "YELLOW"
   },
   {
@@ -176,7 +176,7 @@
    "reasons": "trend mixed (-8% vs 50d)",
    "note": null,
    "price": 1.3,
-   "chg_24h_pct": -1.39915,
+   "chg_24h_pct": -1.1009,
    "prev_light": "YELLOW"
   },
   {
@@ -186,10 +186,10 @@
    "name": "Litecoin",
    "light": "YELLOW",
    "score": -0.381,
-   "reasons": "trend mixed (-2% vs 50d)",
+   "reasons": "trend mixed (-3% vs 50d)",
    "note": null,
-   "price": 59.23,
-   "chg_24h_pct": -0.95836,
+   "price": 58.46,
+   "chg_24h_pct": -2.68262,
    "prev_light": "YELLOW"
   },
   {
@@ -201,21 +201,8 @@
    "score": -0.392,
    "reasons": "trend mixed (-6% vs 50d)",
    "note": null,
-   "price": 0.216075,
-   "chg_24h_pct": -2.11405,
-   "prev_light": "YELLOW"
-  },
-  {
-   "coin": "HYPE",
-   "id": "hyperliquid",
-   "ticker": "HYPE",
-   "name": "Hyperliquid",
-   "light": "YELLOW",
-   "score": -0.635,
-   "reasons": "trend mixed (-8% vs 50d); unlock 2026-10-29 (2.6%)",
-   "note": null,
-   "price": 78.53,
-   "chg_24h_pct": -1.76776,
+   "price": 0.216311,
+   "chg_24h_pct": -1.31479,
    "prev_light": "YELLOW"
   },
   {
@@ -227,22 +214,22 @@
    "score": -0.654,
    "reasons": "trend mixed (-3% vs 50d)",
    "note": null,
-   "price": 728.17,
-   "chg_24h_pct": 0.36481,
+   "price": 728.46,
+   "chg_24h_pct": 0.24213,
    "prev_light": "YELLOW"
   },
   {
-   "coin": "QNT",
-   "id": "quant-network",
-   "ticker": "QNT",
-   "name": "Quant",
-   "light": "RED",
-   "score": 0.05,
-   "reasons": "overextended (+199% 30d)",
+   "coin": "HYPE",
+   "id": "hyperliquid",
+   "ticker": "HYPE",
+   "name": "Hyperliquid",
+   "light": "YELLOW",
+   "score": -0.868,
+   "reasons": "trend mixed (-9% vs 50d); unlock 2026-10-29 (2.6%)",
    "note": null,
-   "price": 192.1,
-   "chg_24h_pct": -3.97308,
-   "prev_light": "RED"
+   "price": 77.98,
+   "chg_24h_pct": -1.92832,
+   "prev_light": "YELLOW"
   },
   {
    "coin": "LEO",
@@ -253,8 +240,8 @@
    "score": -0.26,
    "reasons": "below 200d MA (-6%); illiquid (vol/mcap 0.00%)",
    "note": null,
-   "price": 9.04,
-   "chg_24h_pct": 0.02329,
+   "price": 9.03,
+   "chg_24h_pct": -0.14021,
    "prev_light": "RED"
   },
   {
@@ -264,10 +251,10 @@
    "name": "Rain",
    "light": "RED",
    "score": -0.268,
-   "reasons": "below 200d MA (-32%); illiquid (vol/mcap 0.29%)",
+   "reasons": "below 200d MA (-28%); illiquid (vol/mcap 0.26%)",
    "note": null,
-   "price": 0.00821804,
-   "chg_24h_pct": -11.45284,
+   "price": 0.00867607,
+   "chg_24h_pct": -5.37397,
    "prev_light": "RED"
   },
   {
@@ -277,10 +264,10 @@
    "name": "TRON",
    "light": "RED",
    "score": -0.356,
-   "reasons": "below 200d MA (-0%)",
+   "reasons": "below 200d MA (-1%)",
    "note": null,
-   "price": 0.331669,
-   "chg_24h_pct": 0.20524,
+   "price": 0.33142,
+   "chg_24h_pct": -0.08344,
    "prev_light": "RED"
   },
   {
@@ -292,8 +279,8 @@
    "score": -0.495,
    "reasons": "below 200d MA (-9%)",
    "note": null,
-   "price": 0.07904,
-   "chg_24h_pct": -0.88746,
+   "price": 0.078997,
+   "chg_24h_pct": -0.89624,
    "prev_light": "RED"
   },
   {
@@ -305,8 +292,8 @@
    "score": -0.513,
    "reasons": "below 200d MA (-3%)",
    "note": null,
-   "price": 0.04545515,
-   "chg_24h_pct": 0.20497,
+   "price": 0.04526524,
+   "chg_24h_pct": 1.42291,
    "prev_light": "RED"
   },
   {
@@ -316,10 +303,23 @@
    "name": "Bitcoin Cash",
    "light": "RED",
    "score": -0.605,
-   "reasons": "below 200d MA (-6%)",
+   "reasons": "below 200d MA (-7%)",
    "note": null,
-   "price": 274.28,
-   "chg_24h_pct": -1.58068,
+   "price": 273.41,
+   "chg_24h_pct": -1.83752,
+   "prev_light": "RED"
+  },
+  {
+   "coin": "QNT",
+   "id": "quant-network",
+   "ticker": "QNT",
+   "name": "Quant",
+   "light": "RED",
+   "score": -0.7,
+   "reasons": "overextended (+204% 30d); crowded longs (funding 0.065%/8h, chatter z -0.6)",
+   "note": null,
+   "price": 193.52,
+   "chg_24h_pct": -2.78621,
    "prev_light": "RED"
   },
   {
@@ -329,10 +329,10 @@
    "name": "Stellar",
    "light": "RED",
    "score": -0.96,
-   "reasons": "below 200d MA (-3%)",
+   "reasons": "below 200d MA (-4%)",
    "note": null,
-   "price": 0.176706,
-   "chg_24h_pct": -1.24355,
+   "price": 0.17597,
+   "chg_24h_pct": -0.73623,
    "prev_light": "RED"
   }
  ],
@@ -340,11 +340,11 @@
   "available": true,
   "cash": 63500.0,
   "starting_cash": 100000.0,
-  "equity": 98179.20838804725,
+  "equity": 98166.76749232992,
   "equity_basis": "market",
-  "cash_pct": 64.67764513747166,
+  "cash_pct": 64.68584188122671,
   "invested_cost": 36500.0,
-  "unrealized_pnl": -1820.7916119527508,
+  "unrealized_pnl": -1833.23250767008,
   "positions": [
    {
     "id": "bitcoin",
@@ -352,11 +352,11 @@
     "qty": 0.21671112216781283,
     "entry": 83059.88091400998,
     "stop": 77000.0,
-    "price": 81385.0,
-    "value": 17637.034677627445,
-    "pnl": -362.9653223725545,
-    "pnl_pct": -2.016474013180858,
-    "stop_dist_pct": 5.694805194805186,
+    "price": 81336.0,
+    "value": 17626.415832641225,
+    "pnl": -373.5841673587747,
+    "pnl_pct": -2.0754675964376523,
+    "stop_dist_pct": 5.631168831168831,
     "stop_dist_basis": "price",
     "light": "YELLOW"
    },
@@ -366,11 +366,11 @@
     "qty": 2.3292339675160614,
     "entry": 2575.9541908099995,
     "stop": 2350.0,
-    "price": 2384.84,
-    "value": 5554.850335091004,
-    "pnl": -445.1496649089968,
-    "pnl_pct": -7.419161081816606,
-    "stop_dist_pct": 1.4825531914893775,
+    "price": 2382.67,
+    "value": 5549.795897381494,
+    "pnl": -450.204102618507,
+    "pnl_pct": -7.503401710308443,
+    "stop_dist_pct": 1.3902127659574548,
     "stop_dist_basis": "price",
     "light": "YELLOW"
    },
@@ -380,11 +380,11 @@
     "qty": 6.484328477714211,
     "entry": 771.0898695499999,
     "stop": 700.0,
-    "price": 728.17,
-    "value": 4721.693467617157,
-    "pnl": -278.3065323828432,
-    "pnl_pct": -5.566130647656875,
-    "stop_dist_pct": 4.0242857142857025,
+    "price": 728.46,
+    "value": 4723.573922875695,
+    "pnl": -276.42607712430527,
+    "pnl_pct": -5.52852154248612,
+    "stop_dist_pct": 4.065714285714295,
     "stop_dist_basis": "price",
     "light": "YELLOW"
    },
@@ -394,11 +394,11 @@
     "qty": 43.297310021908636,
     "entry": 115.48061525,
     "stop": 98.5,
-    "price": 104.12,
-    "value": 4508.115919481127,
-    "pnl": -491.8840805188729,
-    "pnl_pct": -9.837681610377459,
-    "stop_dist_pct": 5.705583756345178,
+    "price": 104.02,
+    "value": 4503.786188478936,
+    "pnl": -496.2138115210637,
+    "pnl_pct": -9.924276230421281,
+    "stop_dist_pct": 5.6040609137055775,
     "stop_dist_basis": "price",
     "light": "YELLOW"
    },
@@ -408,11 +408,11 @@
     "qty": 189.38875740188897,
     "entry": 13.200361174,
     "stop": 10.8,
-    "price": 11.92,
-    "value": 2257.5139882305166,
-    "pnl": -242.4860117694834,
-    "pnl_pct": -9.699440470779342,
-    "stop_dist_pct": 10.370370370370363,
+    "price": 11.95,
+    "value": 2263.195650952573,
+    "pnl": -236.80434904742697,
+    "pnl_pct": -9.472173961897079,
+    "stop_dist_pct": 10.64814814814814,
     "stop_dist_basis": "price",
     "light": "YELLOW"
    }
