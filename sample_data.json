@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-25T13:20:47+00:00",
+ "generated_at": "2026-10-26T01:19:24+00:00",
  "is_sample": true,
  "source": "built-in SAMPLE dataset (lights_daily.csv not found)",
  "data_date": null,
@@ -339,12 +339,12 @@
  ],
  "portfolio": {
   "available": true,
-  "cash": 63500.0,
+  "cash": 68891.88,
   "starting_cash": 100000.0,
-  "equity": 100000.0,
+  "equity": 99391.88,
   "equity_basis": "cost",
-  "cash_pct": 63.5,
-  "invested_cost": 36500.0,
+  "cash_pct": 69.31338857862434,
+  "invested_cost": 30500.0,
   "unrealized_pnl": null,
   "positions": [
    {
@@ -358,20 +358,6 @@
     "pnl": null,
     "pnl_pct": null,
     "stop_dist_pct": 7.869975212999969,
-    "stop_dist_basis": "entry",
-    "light": null
-   },
-   {
-    "id": "ethereum",
-    "ticker": "ETH",
-    "qty": 2.3292339675160614,
-    "entry": 2575.9541908099995,
-    "stop": 2350.0,
-    "price": null,
-    "value": 6000.000000000001,
-    "pnl": null,
-    "pnl_pct": null,
-    "stop_dist_pct": 9.615071949361687,
     "stop_dist_basis": "entry",
     "light": null
    },
@@ -418,7 +404,7 @@
     "light": null
    }
   ],
-  "updated": "2026-10-08T07:13:48+01:00",
+  "updated": "2026-10-26T01:18:47+00:00",
   "type": "PAPER / SIMULATED - not real money, not financial advice"
  }
 }
