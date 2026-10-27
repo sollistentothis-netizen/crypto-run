@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-27T09:22:41+00:00",
+ "generated_at": "2026-10-27T13:23:58+00:00",
  "is_sample": false,
  "data_date": "2026-10-27",
  "counts": {
@@ -17,10 +17,10 @@
    "name": "Quant",
    "light": "YELLOW",
    "score": 0.863,
-   "reasons": "macro 2026-10-28: FOMC Oct 27-28 rate decision 1; healthy trend but no early signal/catalyst",
+   "reasons": "macro 2026-10-28: FOMC Oct 27-28 rate decision 1; early signal: EARLY_OI",
    "note": null,
-   "price": 205.74,
-   "chg_24h_pct": 1.70401,
+   "price": 198.47,
+   "chg_24h_pct": -8.97983,
    "prev_light": "RED"
   },
   {
@@ -30,10 +30,23 @@
    "name": "XDC Network",
    "light": "YELLOW",
    "score": 0.719,
-   "reasons": "macro 2026-10-28: FOMC Oct 27-28 rate decision 1; early signal: EARLY_OI",
+   "reasons": "macro 2026-10-28: FOMC Oct 27-28 rate decision 1; healthy trend but no early signal/catalyst",
    "note": null,
-   "price": 0.03428496,
-   "chg_24h_pct": 3.59598,
+   "price": 0.03518418,
+   "chg_24h_pct": 5.69254,
+   "prev_light": "YELLOW"
+  },
+  {
+   "coin": "ZEC",
+   "id": "zcash",
+   "ticker": "ZEC",
+   "name": "Zcash",
+   "light": "YELLOW",
+   "score": 0.628,
+   "reasons": "macro 2026-10-28: FOMC Oct 27-28 rate decision 1; trend mixed (-3% vs 50d)",
+   "note": null,
+   "price": 1264.32,
+   "chg_24h_pct": 3.26462,
    "prev_light": "YELLOW"
   },
   {
@@ -45,8 +58,8 @@
    "score": 0.609,
    "reasons": "macro 2026-10-28: FOMC Oct 27-28 rate decision 1; healthy trend but no early signal/catalyst",
    "note": null,
-   "price": 598.21,
-   "chg_24h_pct": 1.81666,
+   "price": 594.03,
+   "chg_24h_pct": 0.56713,
    "prev_light": "YELLOW"
   },
   {
@@ -58,34 +71,8 @@
    "score": 0.51,
    "reasons": "macro 2026-10-28: FOMC Oct 27-28 rate decision 1; trend mixed (-8% vs 50d)",
    "note": null,
-   "price": 56.22,
-   "chg_24h_pct": -0.7793,
-   "prev_light": "YELLOW"
-  },
-  {
-   "coin": "ZEC",
-   "id": "zcash",
-   "ticker": "ZEC",
-   "name": "Zcash",
-   "light": "YELLOW",
-   "score": 0.453,
-   "reasons": "macro 2026-10-28: FOMC Oct 27-28 rate decision 1; trend mixed (-5% vs 50d); signal present but score 0.45 < 0.5",
-   "note": null,
-   "price": 1238.01,
-   "chg_24h_pct": 1.09577,
-   "prev_light": "YELLOW"
-  },
-  {
-   "coin": "NEAR",
-   "id": "near",
-   "ticker": "NEAR",
-   "name": "NEAR Protocol",
-   "light": "YELLOW",
-   "score": 0.45,
-   "reasons": "macro 2026-10-28: FOMC Oct 27-28 rate decision 1; healthy trend but no early signal/catalyst",
-   "note": null,
-   "price": 4.45,
-   "chg_24h_pct": -2.06833,
+   "price": 56.34,
+   "chg_24h_pct": -0.29025,
    "prev_light": "YELLOW"
   },
   {
@@ -95,10 +82,10 @@
    "name": "Bitcoin",
    "light": "YELLOW",
    "score": 0.293,
-   "reasons": "event 2026-10-28: Strategy (MSTR) shareholder vote result on STRC da; macro 2026-10-28: FOMC Oct 27-28 rate decision 1; trend mixed (-3% vs 50d)",
+   "reasons": "event 2026-10-28: Strategy (MSTR) shareholder vote result on STRC da; macro 2026-10-28: FOMC Oct 27-28 rate decision 1; trend mixed (-2% vs 50d)",
    "note": null,
-   "price": 79657.0,
-   "chg_24h_pct": -0.85342,
+   "price": 80151.0,
+   "chg_24h_pct": 0.12817,
    "prev_light": "YELLOW"
   },
   {
@@ -110,8 +97,21 @@
    "score": 0.291,
    "reasons": "macro 2026-10-28: FOMC Oct 27-28 rate decision 1; trend mixed (-7% vs 50d)",
    "note": null,
-   "price": 1.3,
-   "chg_24h_pct": 0.88674,
+   "price": 1.31,
+   "chg_24h_pct": 1.62675,
+   "prev_light": "YELLOW"
+  },
+  {
+   "coin": "NEAR",
+   "id": "near",
+   "ticker": "NEAR",
+   "name": "NEAR Protocol",
+   "light": "YELLOW",
+   "score": 0.275,
+   "reasons": "macro 2026-10-28: FOMC Oct 27-28 rate decision 1; signal present but score 0.28 < 0.5; early signal: EARLY_OI",
+   "note": null,
+   "price": 4.54,
+   "chg_24h_pct": 0.1009,
    "prev_light": "YELLOW"
   },
   {
@@ -123,8 +123,8 @@
    "score": 0.208,
    "reasons": "macro 2026-10-28: FOMC Oct 27-28 rate decision 1; trend mixed (-6% vs 50d)",
    "note": null,
-   "price": 76.53,
-   "chg_24h_pct": -1.05778,
+   "price": 76.99,
+   "chg_24h_pct": -0.06036,
    "prev_light": "YELLOW"
   },
   {
@@ -134,10 +134,10 @@
    "name": "BNB",
    "light": "YELLOW",
    "score": 0.118,
-   "reasons": "macro 2026-10-28: FOMC Oct 27-28 rate decision 1; trend mixed (-2% vs 50d)",
+   "reasons": "macro 2026-10-28: FOMC Oct 27-28 rate decision 1; trend mixed (-1% vs 50d)",
    "note": null,
-   "price": 735.98,
-   "chg_24h_pct": -0.16204,
+   "price": 740.6,
+   "chg_24h_pct": -0.08455,
    "prev_light": "YELLOW"
   },
   {
@@ -149,8 +149,8 @@
    "score": 0.042,
    "reasons": "macro 2026-10-28: FOMC Oct 27-28 rate decision 1; trend mixed (-10% vs 50d)",
    "note": null,
-   "price": 8.76,
-   "chg_24h_pct": -1.79,
+   "price": 8.77,
+   "chg_24h_pct": -1.70691,
    "prev_light": "YELLOW"
   },
   {
@@ -160,10 +160,10 @@
    "name": "Ethereum",
    "light": "YELLOW",
    "score": -0.088,
-   "reasons": "macro 2026-10-28: FOMC Oct 27-28 rate decision 1; trend mixed (-9% vs 50d)",
+   "reasons": "macro 2026-10-28: FOMC Oct 27-28 rate decision 1; trend mixed (-8% vs 50d)",
    "note": null,
-   "price": 2308.41,
-   "chg_24h_pct": -0.81304,
+   "price": 2326.32,
+   "chg_24h_pct": 0.49375,
    "prev_light": "YELLOW"
   },
   {
@@ -172,11 +172,11 @@
    "ticker": "SOL",
    "name": "Solana",
    "light": "YELLOW",
-   "score": -0.267,
-   "reasons": "event 2026-10-27: Samsung Wallet / Samsung Pay USDC remittances on S; macro 2026-10-28: FOMC Oct 27-28 rate decision 1; trend mixed (-9% vs 50d); signal present but score -0.27 < 0.5",
+   "score": -0.092,
+   "reasons": "event 2026-10-27: Samsung Wallet / Samsung Pay USDC remittances on S; macro 2026-10-28: FOMC Oct 27-28 rate decision 1; trend mixed (-8% vs 50d); signal present but score -0.09 < 0.5",
    "note": null,
-   "price": 99.68,
-   "chg_24h_pct": -1.44795,
+   "price": 100.56,
+   "chg_24h_pct": -0.60205,
    "prev_light": "YELLOW"
   },
   {
@@ -186,10 +186,10 @@
    "name": "Chainlink",
    "light": "YELLOW",
    "score": -0.365,
-   "reasons": "macro 2026-10-28: FOMC Oct 27-28 rate decision 1; trend mixed (-11% vs 50d)",
+   "reasons": "macro 2026-10-28: FOMC Oct 27-28 rate decision 1; trend mixed (-10% vs 50d)",
    "note": null,
-   "price": 11.32,
-   "chg_24h_pct": -1.0302,
+   "price": 11.35,
+   "chg_24h_pct": -0.8158,
    "prev_light": "YELLOW"
   },
   {
@@ -201,8 +201,8 @@
    "score": -0.405,
    "reasons": "macro 2026-10-28: FOMC Oct 27-28 rate decision 1; trend mixed (-8% vs 50d)",
    "note": null,
-   "price": 0.10269,
-   "chg_24h_pct": -1.96653,
+   "price": 0.102732,
+   "chg_24h_pct": -1.58262,
    "prev_light": "YELLOW"
   },
   {
@@ -212,10 +212,10 @@
    "name": "LEO Token",
    "light": "RED",
    "score": 0.802,
-   "reasons": "below 200d MA (-5%); illiquid (vol/mcap 0.00%)",
+   "reasons": "below 200d MA (-6%); illiquid (vol/mcap 0.00%)",
    "note": null,
-   "price": 9.04,
-   "chg_24h_pct": 0.22822,
+   "price": 8.99,
+   "chg_24h_pct": 0.14157,
    "prev_light": "RED"
   },
   {
@@ -227,8 +227,8 @@
    "score": -0.117,
    "reasons": "below 200d MA (-9%)",
    "note": null,
-   "price": 0.04179499,
-   "chg_24h_pct": -1.89,
+   "price": 0.04204112,
+   "chg_24h_pct": -1.37862,
    "prev_light": "RED"
   },
   {
@@ -240,8 +240,8 @@
    "score": -0.189,
    "reasons": "below 200d MA (-8%)",
    "note": null,
-   "price": 0.167602,
-   "chg_24h_pct": -0.89905,
+   "price": 0.167977,
+   "chg_24h_pct": -0.62245,
    "prev_light": "RED"
   },
   {
@@ -253,8 +253,8 @@
    "score": -0.209,
    "reasons": "below 200d MA (-2%)",
    "note": null,
-   "price": 0.327054,
-   "chg_24h_pct": -0.86692,
+   "price": 0.327997,
+   "chg_24h_pct": -0.81649,
    "prev_light": "RED"
   },
   {
@@ -266,8 +266,8 @@
    "score": -0.284,
    "reasons": "below 200d MA (-7%)",
    "note": null,
-   "price": 0.076055,
-   "chg_24h_pct": -1.81226,
+   "price": 0.07605,
+   "chg_24h_pct": -1.83374,
    "prev_light": "RED"
   },
   {
@@ -276,11 +276,11 @@
    "ticker": "ADA",
    "name": "Cardano",
    "light": "RED",
-   "score": -0.296,
+   "score": -0.471,
    "reasons": "below 200d MA (-3%)",
    "note": null,
-   "price": 0.203326,
-   "chg_24h_pct": -0.33165,
+   "price": 0.204002,
+   "chg_24h_pct": -0.33383,
    "prev_light": "RED"
   },
   {
@@ -292,8 +292,8 @@
    "score": -0.477,
    "reasons": "below 200d MA (-11%)",
    "note": null,
-   "price": 0.077054,
-   "chg_24h_pct": -0.09606,
+   "price": 0.077593,
+   "chg_24h_pct": 0.71399,
    "prev_light": "RED"
   },
   {
@@ -303,10 +303,10 @@
    "name": "Rain",
    "light": "RED",
    "score": -0.625,
-   "reasons": "below 200d MA (-41%); illiquid (vol/mcap 0.34%)",
+   "reasons": "below 200d MA (-42%); illiquid (vol/mcap 0.20%)",
    "note": null,
-   "price": 0.00717536,
-   "chg_24h_pct": -11.65947,
+   "price": 0.00709121,
+   "chg_24h_pct": -11.68711,
    "prev_light": "RED"
   },
   {
@@ -316,10 +316,10 @@
    "name": "Bitcoin Cash",
    "light": "RED",
    "score": -0.701,
-   "reasons": "below 200d MA (-2%)",
+   "reasons": "below 200d MA (-1%)",
    "note": null,
-   "price": 282.68,
-   "chg_24h_pct": 1.58344,
+   "price": 283.59,
+   "chg_24h_pct": 2.21897,
    "prev_light": "RED"
   },
   {
@@ -331,8 +331,8 @@
    "score": -0.91,
    "reasons": "unlock 2026-10-29 (2.6%)",
    "note": null,
-   "price": 77.59,
-   "chg_24h_pct": 0.84758,
+   "price": 78.93,
+   "chg_24h_pct": 2.00594,
    "prev_light": "RED"
   }
  ],
@@ -340,11 +340,11 @@
   "available": true,
   "cash": 68891.88,
   "starting_cash": 100000.0,
-  "equity": 97386.53052832282,
+  "equity": 97567.32671578208,
   "equity_basis": "market",
-  "cash_pct": 70.74066570218788,
+  "cash_pct": 70.60958039845151,
   "invested_cost": 30500.0,
-  "unrealized_pnl": -2005.3494716771893,
+  "unrealized_pnl": -1824.55328421792,
   "positions": [
    {
     "id": "bitcoin",
@@ -352,11 +352,11 @@
     "qty": 0.21671112216781283,
     "entry": 83059.88091400998,
     "stop": 77000.0,
-    "price": 79657.0,
-    "value": 17262.557858521468,
-    "pnl": -737.442141478532,
-    "pnl_pct": -4.096900785991863,
-    "stop_dist_pct": 3.4506493506493596,
+    "price": 80151.0,
+    "value": 17369.613152872367,
+    "pnl": -630.3868471276328,
+    "pnl_pct": -3.5021491507090885,
+    "stop_dist_pct": 4.092207792207803,
     "stop_dist_basis": "price",
     "light": "YELLOW"
    },
@@ -366,11 +366,11 @@
     "qty": 6.484328477714211,
     "entry": 771.0898695499999,
     "stop": 700.0,
-    "price": 735.98,
-    "value": 4772.336073028105,
-    "pnl": -227.6639269718953,
-    "pnl_pct": -4.553278539437899,
-    "stop_dist_pct": 5.140000000000011,
+    "price": 740.6,
+    "value": 4802.293670595145,
+    "pnl": -197.70632940485484,
+    "pnl_pct": -3.9541265880971066,
+    "stop_dist_pct": 5.800000000000005,
     "stop_dist_basis": "price",
     "light": "YELLOW"
    },
@@ -380,11 +380,11 @@
     "qty": 43.297310021908636,
     "entry": 115.48061525,
     "stop": 98.5,
-    "price": 99.68,
-    "value": 4315.875862983853,
-    "pnl": -684.124137016147,
-    "pnl_pct": -13.682482740322943,
-    "stop_dist_pct": 1.1979695431472148,
+    "price": 100.56,
+    "value": 4353.977495803132,
+    "pnl": -646.0225041968679,
+    "pnl_pct": -12.920450083937352,
+    "stop_dist_pct": 2.091370558375627,
     "stop_dist_basis": "price",
     "light": "YELLOW"
    },
@@ -394,11 +394,11 @@
     "qty": 189.38875740188897,
     "entry": 13.200361174,
     "stop": 10.8,
-    "price": 11.32,
-    "value": 2143.880733789383,
-    "pnl": -356.11926621061684,
-    "pnl_pct": -14.244770648424677,
-    "stop_dist_pct": 4.814814814814805,
+    "price": 11.35,
+    "value": 2149.5623965114396,
+    "pnl": -350.4376034885604,
+    "pnl_pct": -14.017504139542414,
+    "stop_dist_pct": 5.092592592592582,
     "stop_dist_basis": "price",
     "light": "YELLOW"
    }
