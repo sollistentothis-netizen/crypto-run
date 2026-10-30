@@ -1,6 +1,6 @@
 window.ORACLE_DATA = {
  "schema": 1,
- "generated_at": "2026-10-29T13:25:08+00:00",
+ "generated_at": "2026-10-30T01:20:38+00:00",
  "is_sample": true,
  "source": "built-in SAMPLE dataset (lights_daily.csv not found)",
  "data_date": null,
@@ -339,12 +339,12 @@ window.ORACLE_DATA = {
  ],
  "portfolio": {
   "available": true,
-  "cash": 68891.88,
+  "cash": 79477.74,
   "starting_cash": 100000.0,
-  "equity": 99391.88,
+  "equity": 97477.74,
   "equity_basis": "cost",
-  "cash_pct": 69.31338857862434,
-  "invested_cost": 30500.0,
+  "cash_pct": 81.53424566470252,
+  "invested_cost": 18000.0,
   "unrealized_pnl": null,
   "positions": [
    {
@@ -360,51 +360,9 @@ window.ORACLE_DATA = {
     "stop_dist_pct": 7.869975212999969,
     "stop_dist_basis": "entry",
     "light": null
-   },
-   {
-    "id": "solana",
-    "ticker": "SOL",
-    "qty": 43.297310021908636,
-    "entry": 115.48061525,
-    "stop": 98.5,
-    "price": null,
-    "value": 5000.0,
-    "pnl": null,
-    "pnl_pct": null,
-    "stop_dist_pct": 17.239203299492377,
-    "stop_dist_basis": "entry",
-    "light": null
-   },
-   {
-    "id": "binancecoin",
-    "ticker": "BNB",
-    "qty": 6.484328477714211,
-    "entry": 771.0898695499999,
-    "stop": 700.0,
-    "price": null,
-    "value": 5000.0,
-    "pnl": null,
-    "pnl_pct": null,
-    "stop_dist_pct": 10.155695649999984,
-    "stop_dist_basis": "entry",
-    "light": null
-   },
-   {
-    "id": "chainlink",
-    "ticker": "LINK",
-    "qty": 189.38875740188897,
-    "entry": 13.200361174,
-    "stop": 10.8,
-    "price": null,
-    "value": 2500.0,
-    "pnl": null,
-    "pnl_pct": null,
-    "stop_dist_pct": 22.2255664259259,
-    "stop_dist_basis": "entry",
-    "light": null
    }
   ],
-  "updated": "2026-10-26T01:18:47+00:00",
+  "updated": "2026-10-30T01:20:31+00:00",
   "type": "PAPER / SIMULATED - not real money, not financial advice"
  }
 };
