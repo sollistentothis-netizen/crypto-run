@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-01T07:57:49+00:00",
+ "generated_at": "2026-11-01T13:19:43+00:00",
  "is_sample": false,
  "data_date": "2026-11-01",
  "counts": {
@@ -17,10 +17,23 @@
    "name": "Hyperliquid",
    "light": "YELLOW",
    "score": 0.748,
-   "reasons": "healthy trend but no early signal/catalyst",
+   "reasons": "funding warm 0.035%/8h; healthy trend but no early signal/catalyst",
    "note": null,
-   "price": 87.48,
-   "chg_24h_pct": -0.46929,
+   "price": 88.14,
+   "chg_24h_pct": 1.24193,
+   "prev_light": "YELLOW"
+  },
+  {
+   "coin": "ETH",
+   "id": "ethereum",
+   "ticker": "ETH",
+   "name": "Ethereum",
+   "light": "YELLOW",
+   "score": 0.649,
+   "reasons": "ETF outflows (2026-10-30: -156M, streak 5d); trend mixed (-10% vs 50d)",
+   "note": null,
+   "price": 2264.07,
+   "chg_24h_pct": 0.80433,
    "prev_light": "YELLOW"
   },
   {
@@ -32,8 +45,8 @@
    "score": 0.592,
    "reasons": "trend mixed (-9% vs 50d); early signal: EARLY_CHATTER",
    "note": null,
-   "price": 56.18,
-   "chg_24h_pct": 2.48754,
+   "price": 55.91,
+   "chg_24h_pct": 1.66109,
    "prev_light": "YELLOW"
   },
   {
@@ -45,21 +58,8 @@
    "score": 0.492,
    "reasons": "ETF outflows (2026-10-30: -643M, streak 1d); trend mixed (-5% vs 50d)",
    "note": null,
-   "price": 77791.0,
-   "chg_24h_pct": 0.70283,
-   "prev_light": "YELLOW"
-  },
-  {
-   "coin": "ETH",
-   "id": "ethereum",
-   "ticker": "ETH",
-   "name": "Ethereum",
-   "light": "YELLOW",
-   "score": 0.474,
-   "reasons": "ETF outflows (2026-10-30: -156M, streak 5d); trend mixed (-10% vs 50d)",
-   "note": null,
-   "price": 2266.6,
-   "chg_24h_pct": 1.16873,
+   "price": 77921.0,
+   "chg_24h_pct": 0.66565,
    "prev_light": "YELLOW"
   },
   {
@@ -69,10 +69,10 @@
    "name": "Avalanche",
    "light": "YELLOW",
    "score": 0.381,
-   "reasons": "trend mixed (-10% vs 50d)",
+   "reasons": "trend mixed (-11% vs 50d)",
    "note": null,
-   "price": 8.89,
-   "chg_24h_pct": 5.28189,
+   "price": 8.78,
+   "chg_24h_pct": 3.38838,
    "prev_light": "YELLOW"
   },
   {
@@ -82,10 +82,10 @@
    "name": "XDC Network",
    "light": "YELLOW",
    "score": 0.267,
-   "reasons": "trend mixed (-2% vs 50d); early signal: EARLY_OI",
+   "reasons": "trend mixed (-3% vs 50d); early signal: EARLY_OI",
    "note": null,
-   "price": 0.03144543,
-   "chg_24h_pct": 0.34796,
+   "price": 0.0313474,
+   "chg_24h_pct": -0.67553,
    "prev_light": "YELLOW"
   },
   {
@@ -95,24 +95,24 @@
    "name": "BNB",
    "light": "YELLOW",
    "score": 0.243,
-   "reasons": "event 2026-11-01: Binance withdrawals: Recovery Update #2 (19:58 UTC; trend mixed (-6% vs 50d)",
+   "reasons": "event 2026-11-01: Binance withdrawals: Recovery Update #2 (19:58 UTC; trend mixed (-5% vs 50d); early signal: EARLY_OI",
    "note": null,
-   "price": 704.66,
-   "chg_24h_pct": 0.79038,
+   "price": 713.63,
+   "chg_24h_pct": 1.23536,
    "prev_light": "YELLOW"
   },
   {
-   "coin": "BCH",
-   "id": "bitcoin-cash",
-   "ticker": "BCH",
-   "name": "Bitcoin Cash",
+   "coin": "XMR",
+   "id": "monero",
+   "ticker": "XMR",
+   "name": "Monero",
    "light": "YELLOW",
-   "score": 0.154,
-   "reasons": "trend mixed (-1% vs 50d)",
+   "score": 0.165,
+   "reasons": "healthy trend but no early signal/catalyst",
    "note": null,
-   "price": 284.24,
-   "chg_24h_pct": -2.0461,
-   "prev_light": "YELLOW"
+   "price": 601.79,
+   "chg_24h_pct": 1.4349,
+   "prev_light": "RED"
   },
   {
    "coin": "QNT",
@@ -123,8 +123,8 @@
    "score": 0.153,
    "reasons": "healthy trend but no early signal/catalyst",
    "note": null,
-   "price": 200.33,
-   "chg_24h_pct": 4.2414,
+   "price": 199.93,
+   "chg_24h_pct": -0.34396,
    "prev_light": "YELLOW"
   },
   {
@@ -134,10 +134,10 @@
    "name": "Chainlink",
    "light": "YELLOW",
    "score": -0.227,
-   "reasons": "trend mixed (-7% vs 50d)",
+   "reasons": "trend mixed (-8% vs 50d)",
    "note": null,
-   "price": 11.75,
-   "chg_24h_pct": 3.65813,
+   "price": 11.62,
+   "chg_24h_pct": 0.50399,
    "prev_light": "YELLOW"
   },
   {
@@ -149,21 +149,8 @@
    "score": -0.377,
    "reasons": "trend mixed (-13% vs 50d)",
    "note": null,
-   "price": 95.4,
-   "chg_24h_pct": -0.13113,
-   "prev_light": "YELLOW"
-  },
-  {
-   "coin": "ZEC",
-   "id": "zcash",
-   "ticker": "ZEC",
-   "name": "Zcash",
-   "light": "YELLOW",
-   "score": -0.397,
-   "reasons": "event 2026-11-02: Zebra 6.4.x end-of-support (node operators must up; trend mixed (-5% vs 50d); signal present but score -0.40 < 0.5",
-   "note": null,
-   "price": 1243.61,
-   "chg_24h_pct": -2.22547,
+   "price": 94.91,
+   "chg_24h_pct": -0.86342,
    "prev_light": "YELLOW"
   },
   {
@@ -175,8 +162,21 @@
    "score": -0.429,
    "reasons": "trend mixed (-4% vs 50d)",
    "note": null,
-   "price": 4.36,
-   "chg_24h_pct": 1.58514,
+   "price": 4.4,
+   "chg_24h_pct": -0.29357,
+   "prev_light": "YELLOW"
+  },
+  {
+   "coin": "ZEC",
+   "id": "zcash",
+   "ticker": "ZEC",
+   "name": "Zcash",
+   "light": "YELLOW",
+   "score": -0.572,
+   "reasons": "event 2026-11-02: Zebra 6.4.x end-of-support (node operators must up; trend mixed (-5% vs 50d); signal present but score -0.57 < 0.5",
+   "note": null,
+   "price": 1243.85,
+   "chg_24h_pct": -3.18632,
    "prev_light": "YELLOW"
   },
   {
@@ -189,7 +189,7 @@
    "reasons": "below 200d MA (-2%)",
    "note": null,
    "price": 1.25,
-   "chg_24h_pct": 0.67658,
+   "chg_24h_pct": 0.2696,
    "prev_light": "RED"
   },
   {
@@ -201,9 +201,22 @@
    "score": 0.254,
    "reasons": "below 200d MA (-7%)",
    "note": null,
-   "price": 0.310052,
-   "chg_24h_pct": -3.47703,
+   "price": 0.310677,
+   "chg_24h_pct": -2.32323,
    "prev_light": "RED"
+  },
+  {
+   "coin": "BCH",
+   "id": "bitcoin-cash",
+   "ticker": "BCH",
+   "name": "Bitcoin Cash",
+   "light": "RED",
+   "score": -0.012,
+   "reasons": "below 200d MA (-0%)",
+   "note": null,
+   "price": 283.2,
+   "chg_24h_pct": -2.81286,
+   "prev_light": "YELLOW"
   },
   {
    "coin": "LEO",
@@ -214,8 +227,8 @@
    "score": -0.234,
    "reasons": "below 200d MA (-2%); illiquid (vol/mcap 0.00%)",
    "note": null,
-   "price": 9.38,
-   "chg_24h_pct": -0.43615,
+   "price": 9.39,
+   "chg_24h_pct": 0.08288,
    "prev_light": "RED"
   },
   {
@@ -227,8 +240,8 @@
    "score": -0.25,
    "reasons": "below 200d MA (-5%)",
    "note": null,
-   "price": 0.095199,
-   "chg_24h_pct": 0.41125,
+   "price": 0.095012,
+   "chg_24h_pct": -0.73636,
    "prev_light": "RED"
   },
   {
@@ -238,10 +251,10 @@
    "name": "WhiteBIT Coin",
    "light": "RED",
    "score": -0.279,
-   "reasons": "illiquid (vol/mcap 0.46%)",
+   "reasons": "illiquid (vol/mcap 0.47%)",
    "note": null,
-   "price": 74.76,
-   "chg_24h_pct": 0.76748,
+   "price": 74.79,
+   "chg_24h_pct": 0.68516,
    "prev_light": "YELLOW"
   },
   {
@@ -251,23 +264,23 @@
    "name": "Rain",
    "light": "RED",
    "score": -0.296,
-   "reasons": "below 200d MA (-49%); illiquid (vol/mcap 0.27%)",
+   "reasons": "below 200d MA (-51%); illiquid (vol/mcap 0.32%)",
    "note": null,
-   "price": 0.0061484,
-   "chg_24h_pct": -1.07545,
+   "price": 0.0058952,
+   "chg_24h_pct": -3.66898,
    "prev_light": "RED"
   },
   {
-   "coin": "XMR",
-   "id": "monero",
-   "ticker": "XMR",
-   "name": "Monero",
+   "coin": "HBAR",
+   "id": "hedera-hashgraph",
+   "ticker": "HBAR",
+   "name": "Hedera",
    "light": "RED",
-   "score": -0.41,
-   "reasons": "crowded longs (funding 0.060%/8h, chatter z -0.5)",
+   "score": -0.388,
+   "reasons": "below 200d MA (-11%)",
    "note": null,
-   "price": 603.71,
-   "chg_24h_pct": 1.2325,
+   "price": 0.071759,
+   "chg_24h_pct": -0.32961,
    "prev_light": "RED"
   },
   {
@@ -279,8 +292,21 @@
    "score": -0.526,
    "reasons": "below 200d MA (-12%)",
    "note": null,
-   "price": 0.075736,
-   "chg_24h_pct": 0.8772,
+   "price": 0.075715,
+   "chg_24h_pct": 0.6074,
+   "prev_light": "RED"
+  },
+  {
+   "coin": "IOTA",
+   "id": "iota",
+   "ticker": "IOTA",
+   "name": "IOTA",
+   "light": "RED",
+   "score": -0.608,
+   "reasons": "below 200d MA (-13%)",
+   "note": null,
+   "price": 0.03974842,
+   "chg_24h_pct": 0.50427,
    "prev_light": "RED"
   },
   {
@@ -292,8 +318,8 @@
    "score": -0.653,
    "reasons": "below 200d MA (-8%)",
    "note": null,
-   "price": 0.193489,
-   "chg_24h_pct": 0.38585,
+   "price": 0.193491,
+   "chg_24h_pct": 0.48962,
    "prev_light": "RED"
   },
   {
@@ -305,34 +331,8 @@
    "score": -0.77,
    "reasons": "below 200d MA (-8%)",
    "note": null,
-   "price": 0.169096,
-   "chg_24h_pct": 0.41665,
-   "prev_light": "RED"
-  },
-  {
-   "coin": "HBAR",
-   "id": "hedera-hashgraph",
-   "ticker": "HBAR",
-   "name": "Hedera",
-   "light": "RED",
-   "score": -0.885,
-   "reasons": "below 200d MA (-11%)",
-   "note": null,
-   "price": 0.071973,
-   "chg_24h_pct": 0.85846,
-   "prev_light": "RED"
-  },
-  {
-   "coin": "IOTA",
-   "id": "iota",
-   "ticker": "IOTA",
-   "name": "IOTA",
-   "light": "RED",
-   "score": -1.025,
-   "reasons": "below 200d MA (-13%)",
-   "note": null,
-   "price": 0.03989794,
-   "chg_24h_pct": 1.33238,
+   "price": 0.16829,
+   "chg_24h_pct": -0.50149,
    "prev_light": "RED"
   }
  ],
@@ -340,11 +340,11 @@
   "available": true,
   "cash": 79477.74,
   "starting_cash": 100000.0,
-  "equity": 96335.91490455632,
+  "equity": 96364.08735043815,
   "equity_basis": "market",
-  "cash_pct": 82.50063341251457,
+  "cash_pct": 82.47651400564905,
   "invested_cost": 18000.0,
-  "unrealized_pnl": -1141.8250954436735,
+  "unrealized_pnl": -1113.6526495618564,
   "positions": [
    {
     "id": "bitcoin",
@@ -352,11 +352,11 @@
     "qty": 0.21671112216781283,
     "entry": 83059.88091400998,
     "stop": 77000.0,
-    "price": 77791.0,
-    "value": 16858.174904556327,
-    "pnl": -1141.8250954436735,
-    "pnl_pct": -6.3434727524648515,
-    "stop_dist_pct": 1.0272727272727211,
+    "price": 77921.0,
+    "value": 16886.347350438144,
+    "pnl": -1113.6526495618564,
+    "pnl_pct": -6.186959164232542,
+    "stop_dist_pct": 1.196103896103895,
     "stop_dist_basis": "price",
     "light": "YELLOW"
    }
