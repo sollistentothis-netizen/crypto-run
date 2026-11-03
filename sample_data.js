@@ -1,6 +1,6 @@
 window.ORACLE_DATA = {
  "schema": 1,
- "generated_at": "2026-11-02T13:18:12+00:00",
+ "generated_at": "2026-11-02T19:17:42-06:00",
  "is_sample": true,
  "source": "built-in SAMPLE dataset (lights_daily.csv not found)",
  "data_date": null,
@@ -339,30 +339,15 @@ window.ORACLE_DATA = {
  ],
  "portfolio": {
   "available": true,
-  "cash": 79477.74,
+  "cash": 96144.98,
   "starting_cash": 100000.0,
-  "equity": 97477.74,
+  "equity": 96144.98,
   "equity_basis": "cost",
-  "cash_pct": 81.53424566470252,
-  "invested_cost": 18000.0,
+  "cash_pct": 100.0,
+  "invested_cost": 0.0,
   "unrealized_pnl": null,
-  "positions": [
-   {
-    "id": "bitcoin",
-    "ticker": "BTC",
-    "qty": 0.21671112216781283,
-    "entry": 83059.88091400998,
-    "stop": 77000.0,
-    "price": null,
-    "value": 18000.0,
-    "pnl": null,
-    "pnl_pct": null,
-    "stop_dist_pct": 7.869975212999969,
-    "stop_dist_basis": "entry",
-    "light": null
-   }
-  ],
-  "updated": "2026-10-30T01:20:31+00:00",
+  "positions": [],
+  "updated": "2026-11-02T19:17:36-06:00",
   "type": "PAPER / SIMULATED - not real money, not financial advice"
  }
 };
