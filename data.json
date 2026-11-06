@@ -1,27 +1,40 @@
 {
  "schema": 1,
- "generated_at": "2026-11-05T13:14:49+00:00",
+ "generated_at": "2026-11-06T01:15:33+00:00",
  "is_sample": false,
- "data_date": "2026-11-05",
+ "data_date": "2026-11-06",
  "counts": {
   "GREEN": 0,
-  "YELLOW": 15,
-  "RED": 10
+  "YELLOW": 12,
+  "RED": 13
  },
  "common_note": null,
  "coins": [
   {
-   "coin": "BCH",
-   "id": "bitcoin-cash",
-   "ticker": "BCH",
-   "name": "Bitcoin Cash",
+   "coin": "HYPE",
+   "id": "hyperliquid",
+   "ticker": "HYPE",
+   "name": "Hyperliquid",
+   "light": "YELLOW",
+   "score": 1.711,
+   "reasons": "7d -13% (momentum broken); macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-10% vs 50d)",
+   "note": null,
+   "price": 77.32,
+   "chg_24h_pct": -8.03727,
+   "prev_light": "YELLOW"
+  },
+  {
+   "coin": "AVAX",
+   "id": "avalanche-2",
+   "ticker": "AVAX",
+   "name": "Avalanche",
    "light": "YELLOW",
    "score": 1.511,
-   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-1% vs 50d); early signal: EARLY_CHATTER",
+   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-16% vs 50d)",
    "note": null,
-   "price": 288.46,
-   "chg_24h_pct": 5.53323,
-   "prev_light": "RED"
+   "price": 8.3,
+   "chg_24h_pct": -4.84243,
+   "prev_light": "YELLOW"
   },
   {
    "coin": "BNB",
@@ -30,10 +43,10 @@
    "name": "BNB",
    "light": "YELLOW",
    "score": 1.511,
-   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-5% vs 50d)",
+   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-7% vs 50d)",
    "note": null,
-   "price": 710.57,
-   "chg_24h_pct": 1.64699,
+   "price": 692.84,
+   "chg_24h_pct": -3.33874,
    "prev_light": "YELLOW"
   },
   {
@@ -43,10 +56,10 @@
    "name": "Bitcoin",
    "light": "YELLOW",
    "score": 1.511,
-   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-3% vs 50d)",
+   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-7% vs 50d)",
    "note": null,
-   "price": 79575.0,
-   "chg_24h_pct": 1.5995,
+   "price": 76168.0,
+   "chg_24h_pct": -5.38654,
    "prev_light": "YELLOW"
   },
   {
@@ -56,23 +69,10 @@
    "name": "Ethereum",
    "light": "YELLOW",
    "score": 1.511,
-   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-5% vs 50d)",
+   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-10% vs 50d)",
    "note": null,
-   "price": 2387.47,
-   "chg_24h_pct": 3.07522,
-   "prev_light": "YELLOW"
-  },
-  {
-   "coin": "HYPE",
-   "id": "hyperliquid",
-   "ticker": "HYPE",
-   "name": "Hyperliquid",
-   "light": "YELLOW",
-   "score": 1.511,
-   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-4% vs 50d)",
-   "note": null,
-   "price": 81.97,
-   "chg_24h_pct": -3.33364,
+   "price": 2239.89,
+   "chg_24h_pct": -7.38466,
    "prev_light": "YELLOW"
   },
   {
@@ -82,10 +82,23 @@
    "name": "Chainlink",
    "light": "YELLOW",
    "score": 1.511,
-   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-10% vs 50d); early signal: EARLY_CHATTER",
+   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-14% vs 50d)",
    "note": null,
-   "price": 11.43,
-   "chg_24h_pct": 2.93837,
+   "price": 10.85,
+   "chg_24h_pct": -4.76998,
+   "prev_light": "YELLOW"
+  },
+  {
+   "coin": "LTC",
+   "id": "litecoin",
+   "ticker": "LTC",
+   "name": "Litecoin",
+   "light": "YELLOW",
+   "score": 1.511,
+   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-16% vs 50d)",
+   "note": null,
+   "price": 52.18,
+   "chg_24h_pct": -7.03306,
    "prev_light": "YELLOW"
   },
   {
@@ -95,10 +108,10 @@
    "name": "NEAR Protocol",
    "light": "YELLOW",
    "score": 1.511,
-   "reasons": "7d -11% (momentum broken); macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-16% vs 50d)",
+   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-20% vs 50d)",
    "note": null,
-   "price": 3.93,
-   "chg_24h_pct": -1.98034,
+   "price": 3.73,
+   "chg_24h_pct": -6.80837,
    "prev_light": "YELLOW"
   },
   {
@@ -108,10 +121,10 @@
    "name": "Solana",
    "light": "YELLOW",
    "score": 1.511,
-   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-12% vs 50d)",
+   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-17% vs 50d)",
    "note": null,
-   "price": 95.33,
-   "chg_24h_pct": 2.90466,
+   "price": 90.16,
+   "chg_24h_pct": -5.7347,
    "prev_light": "YELLOW"
   },
   {
@@ -121,62 +134,10 @@
    "name": "WhiteBIT Coin",
    "light": "YELLOW",
    "score": 1.511,
-   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-5% vs 50d)",
+   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-9% vs 50d)",
    "note": null,
-   "price": 76.86,
-   "chg_24h_pct": 2.17434,
-   "prev_light": "YELLOW"
-  },
-  {
-   "coin": "XRP",
-   "id": "ripple",
-   "ticker": "XRP",
-   "name": "XRP",
-   "light": "YELLOW",
-   "score": 1.511,
-   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-6% vs 50d)",
-   "note": null,
-   "price": 1.31,
-   "chg_24h_pct": 2.14898,
-   "prev_light": "YELLOW"
-  },
-  {
-   "coin": "ZEC",
-   "id": "zcash",
-   "ticker": "ZEC",
-   "name": "Zcash",
-   "light": "YELLOW",
-   "score": 1.31,
-   "reasons": "event 2026-11-06: NU7 mainnet activation at height 3,543,405 (25s bl; macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-2% vs 50d); early signal: EARLY_CHATTER",
-   "note": null,
-   "price": 1299.2,
-   "chg_24h_pct": 1.00658,
-   "prev_light": "YELLOW"
-  },
-  {
-   "coin": "AVAX",
-   "id": "avalanche-2",
-   "ticker": "AVAX",
-   "name": "Avalanche",
-   "light": "YELLOW",
-   "score": 1.127,
-   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-12% vs 50d); early signal: EARLY_CHATTER",
-   "note": null,
-   "price": 8.68,
-   "chg_24h_pct": 0.02321,
-   "prev_light": "YELLOW"
-  },
-  {
-   "coin": "LTC",
-   "id": "litecoin",
-   "ticker": "LTC",
-   "name": "Litecoin",
-   "light": "YELLOW",
-   "score": 1.001,
-   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-11% vs 50d)",
-   "note": null,
-   "price": 55.2,
-   "chg_24h_pct": 1.08994,
+   "price": 73.13,
+   "chg_24h_pct": -6.08625,
    "prev_light": "YELLOW"
   },
   {
@@ -185,11 +146,11 @@
    "ticker": "XDC",
    "name": "XDC Network",
    "light": "YELLOW",
-   "score": 0.757,
-   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-2% vs 50d)",
+   "score": 1.511,
+   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-6% vs 50d)",
    "note": null,
-   "price": 0.03186221,
-   "chg_24h_pct": 2.26152,
+   "price": 0.03059667,
+   "chg_24h_pct": -2.94546,
    "prev_light": "YELLOW"
   },
   {
@@ -198,11 +159,11 @@
    "ticker": "QNT",
    "name": "Quant",
    "light": "YELLOW",
-   "score": 0.205,
-   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; healthy trend but no early signal/catalyst",
+   "score": 0.28,
+   "reasons": "macro 2026-11-06: US Employment Situation / NFP ; trend mixed (-1% vs 50d)",
    "note": null,
-   "price": 201.38,
-   "chg_24h_pct": 1.5322,
+   "price": 191.36,
+   "chg_24h_pct": -5.17625,
    "prev_light": "YELLOW"
   },
   {
@@ -212,10 +173,10 @@
    "name": "Cardano",
    "light": "RED",
    "score": 1.289,
-   "reasons": "below 200d MA (-6%)",
+   "reasons": "below 200d MA (-11%)",
    "note": null,
-   "price": 0.195637,
-   "chg_24h_pct": 3.14887,
+   "price": 0.184581,
+   "chg_24h_pct": -6.04826,
    "prev_light": "RED"
   },
   {
@@ -225,11 +186,24 @@
    "name": "Algorand",
    "light": "RED",
    "score": 1.289,
+   "reasons": "below 200d MA (-7%)",
+   "note": null,
+   "price": 0.093217,
+   "chg_24h_pct": -6.39624,
+   "prev_light": "RED"
+  },
+  {
+   "coin": "BCH",
+   "id": "bitcoin-cash",
+   "ticker": "BCH",
+   "name": "Bitcoin Cash",
+   "light": "RED",
+   "score": 1.289,
    "reasons": "below 200d MA (-1%)",
    "note": null,
-   "price": 0.098527,
-   "chg_24h_pct": 2.24686,
-   "prev_light": "RED"
+   "price": 276.1,
+   "chg_24h_pct": -1.71664,
+   "prev_light": "YELLOW"
   },
   {
    "coin": "HBAR",
@@ -238,10 +212,10 @@
    "name": "Hedera",
    "light": "RED",
    "score": 1.289,
-   "reasons": "below 200d MA (-11%)",
+   "reasons": "below 200d MA (-15%)",
    "note": null,
-   "price": 0.071591,
-   "chg_24h_pct": 1.4841,
+   "price": 0.06858,
+   "chg_24h_pct": -5.31905,
    "prev_light": "RED"
   },
   {
@@ -251,10 +225,10 @@
    "name": "IOTA",
    "light": "RED",
    "score": 1.289,
-   "reasons": "below 200d MA (-12%)",
+   "reasons": "below 200d MA (-16%)",
    "note": null,
-   "price": 0.0397845,
-   "chg_24h_pct": 1.4633,
+   "price": 0.03786849,
+   "chg_24h_pct": -5.41814,
    "prev_light": "RED"
   },
   {
@@ -266,8 +240,8 @@
    "score": 1.289,
    "reasons": "below 200d MA (-2%); illiquid (vol/mcap 0.00%)",
    "note": null,
-   "price": 9.35,
-   "chg_24h_pct": 0.29206,
+   "price": 9.31,
+   "chg_24h_pct": -0.30186,
    "prev_light": "RED"
   },
   {
@@ -276,12 +250,38 @@
    "ticker": "XLM",
    "name": "Stellar",
    "light": "RED",
-   "score": 1.264,
-   "reasons": "below 200d MA (-10%)",
+   "score": 1.289,
+   "reasons": "below 200d MA (-15%)",
    "note": null,
-   "price": 0.164278,
-   "chg_24h_pct": 0.85844,
+   "price": 0.155105,
+   "chg_24h_pct": -7.25528,
    "prev_light": "RED"
+  },
+  {
+   "coin": "XRP",
+   "id": "ripple",
+   "ticker": "XRP",
+   "name": "XRP",
+   "light": "RED",
+   "score": 1.289,
+   "reasons": "below 200d MA (-4%)",
+   "note": null,
+   "price": 1.22,
+   "chg_24h_pct": -6.38673,
+   "prev_light": "YELLOW"
+  },
+  {
+   "coin": "ZEC",
+   "id": "zcash",
+   "ticker": "ZEC",
+   "name": "Zcash",
+   "light": "RED",
+   "score": 1.183,
+   "reasons": "crowded longs (funding 0.052%/8h, chatter z 8.1)",
+   "note": null,
+   "price": 1317.44,
+   "chg_24h_pct": 2.11084,
+   "prev_light": "YELLOW"
   },
   {
    "coin": "DOGE",
@@ -290,10 +290,10 @@
    "name": "Dogecoin",
    "light": "RED",
    "score": 1.067,
-   "reasons": "below 200d MA (-12%)",
+   "reasons": "below 200d MA (-16%)",
    "note": null,
-   "price": 0.075903,
-   "chg_24h_pct": 1.59457,
+   "price": 0.072023,
+   "chg_24h_pct": -6.34145,
    "prev_light": "RED"
   },
   {
@@ -303,10 +303,10 @@
    "name": "Rain",
    "light": "RED",
    "score": 1.067,
-   "reasons": "below 200d MA (-51%); illiquid (vol/mcap 0.32%)",
+   "reasons": "below 200d MA (-47%); illiquid (vol/mcap 0.31%)",
    "note": null,
-   "price": 0.00587189,
-   "chg_24h_pct": -4.54474,
+   "price": 0.00641925,
+   "chg_24h_pct": 7.55872,
    "prev_light": "RED"
   },
   {
@@ -318,8 +318,8 @@
    "score": 1.067,
    "reasons": "below 200d MA (-5%)",
    "note": null,
-   "price": 0.318141,
-   "chg_24h_pct": -0.17006,
+   "price": 0.318521,
+   "chg_24h_pct": -0.2612,
    "prev_light": "RED"
   },
   {
@@ -329,10 +329,10 @@
    "name": "Monero",
    "light": "RED",
    "score": 0.983,
-   "reasons": "crowded longs (funding 0.120%/8h, chatter z 4.3)",
+   "reasons": "crowded longs (funding 0.067%/8h, chatter z 17.5)",
    "note": null,
-   "price": 636.05,
-   "chg_24h_pct": -1.26556,
+   "price": 621.83,
+   "chg_24h_pct": -2.18583,
    "prev_light": "RED"
   }
  ],
