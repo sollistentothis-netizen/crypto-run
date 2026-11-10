@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-10T07:55:19+00:00",
+ "generated_at": "2026-11-10T13:15:39+00:00",
  "is_sample": false,
  "data_date": "2026-11-10",
  "counts": {
@@ -17,10 +17,10 @@
    "name": "Avalanche",
    "light": "YELLOW",
    "score": 1.233,
-   "reasons": "macro 2026-11-10: US CPI (Oct) 08:30 ET / 13:30 ; trend mixed (-13% vs 50d); early signal: EARLY_CHATTER",
+   "reasons": "macro 2026-11-10: US CPI (Oct) 08:30 ET / 13:30 ; trend mixed (-14% vs 50d); early signal: EARLY_CHATTER",
    "note": null,
-   "price": 8.49,
-   "chg_24h_pct": 8.48021,
+   "price": 8.38,
+   "chg_24h_pct": -1.89105,
    "prev_light": "YELLOW"
   },
   {
@@ -30,10 +30,10 @@
    "name": "Hyperliquid",
    "light": "YELLOW",
    "score": 0.523,
-   "reasons": "7d -10% (momentum broken); macro 2026-11-10: US CPI (Oct) 08:30 ET / 13:30 ; trend mixed (-11% vs 50d)",
+   "reasons": "7d -13% (momentum broken); macro 2026-11-10: US CPI (Oct) 08:30 ET / 13:30 ; trend mixed (-13% vs 50d)",
    "note": null,
-   "price": 74.95,
-   "chg_24h_pct": 2.78798,
+   "price": 73.61,
+   "chg_24h_pct": 0.17063,
    "prev_light": "YELLOW"
   },
   {
@@ -43,10 +43,10 @@
    "name": "Quant",
    "light": "YELLOW",
    "score": 0.355,
-   "reasons": "macro 2026-11-10: US CPI (Oct) 08:30 ET / 13:30 ; trend mixed (-6% vs 50d)",
+   "reasons": "macro 2026-11-10: US CPI (Oct) 08:30 ET / 13:30 ; trend mixed (-8% vs 50d)",
    "note": null,
-   "price": 191.82,
-   "chg_24h_pct": -0.77532,
+   "price": 187.31,
+   "chg_24h_pct": -6.17168,
    "prev_light": "YELLOW"
   },
   {
@@ -56,10 +56,10 @@
    "name": "Zcash",
    "light": "YELLOW",
    "score": 0.314,
-   "reasons": "macro 2026-11-10: US CPI (Oct) 08:30 ET / 13:30 ; trend mixed (-10% vs 50d); early signal: EARLY_OI",
+   "reasons": "macro 2026-11-10: US CPI (Oct) 08:30 ET / 13:30 ; trend mixed (-11% vs 50d); early signal: EARLY_OI",
    "note": null,
-   "price": 1157.16,
-   "chg_24h_pct": -2.93985,
+   "price": 1155.8,
+   "chg_24h_pct": -4.77455,
    "prev_light": "YELLOW"
   },
   {
@@ -69,10 +69,10 @@
    "name": "Bitcoin",
    "light": "YELLOW",
    "score": 0.3,
-   "reasons": "macro 2026-11-10: US CPI (Oct) 08:30 ET / 13:30 ; trend mixed (-8% vs 50d)",
+   "reasons": "macro 2026-11-10: US CPI (Oct) 08:30 ET / 13:30 ; trend mixed (-9% vs 50d)",
    "note": null,
-   "price": 74892.0,
-   "chg_24h_pct": 1.37508,
+   "price": 74322.0,
+   "chg_24h_pct": -0.50208,
    "prev_light": "YELLOW"
   },
   {
@@ -82,10 +82,10 @@
    "name": "XDC Network",
    "light": "YELLOW",
    "score": 0.158,
-   "reasons": "macro 2026-11-10: US CPI (Oct) 08:30 ET / 13:30 ; trend mixed (-4% vs 50d); early signal: EARLY_OI",
+   "reasons": "macro 2026-11-10: US CPI (Oct) 08:30 ET / 13:30 ; trend mixed (-5% vs 50d); early signal: EARLY_OI",
    "note": null,
-   "price": 0.03143628,
-   "chg_24h_pct": 6.70654,
+   "price": 0.03100029,
+   "chg_24h_pct": 4.73997,
    "prev_light": "RED"
   },
   {
@@ -95,10 +95,10 @@
    "name": "Chainlink",
    "light": "YELLOW",
    "score": 0.13,
-   "reasons": "macro 2026-11-10: US CPI (Oct) 08:30 ET / 13:30 ; trend mixed (-15% vs 50d)",
+   "reasons": "macro 2026-11-10: US CPI (Oct) 08:30 ET / 13:30 ; trend mixed (-16% vs 50d)",
    "note": null,
-   "price": 10.65,
-   "chg_24h_pct": 3.92336,
+   "price": 10.5,
+   "chg_24h_pct": -0.63903,
    "prev_light": "YELLOW"
   },
   {
@@ -108,10 +108,10 @@
    "name": "Monero",
    "light": "YELLOW",
    "score": 0.032,
-   "reasons": "macro 2026-11-10: US CPI (Oct) 08:30 ET / 13:30 ; trend mixed (-2% vs 50d)",
+   "reasons": "7d -11% (momentum broken); macro 2026-11-10: US CPI (Oct) 08:30 ET / 13:30 ; trend mixed (-4% vs 50d)",
    "note": null,
-   "price": 563.27,
-   "chg_24h_pct": -4.62768,
+   "price": 551.51,
+   "chg_24h_pct": -7.71455,
    "prev_light": "YELLOW"
   },
   {
@@ -123,8 +123,8 @@
    "score": -0.293,
    "reasons": "macro 2026-11-10: US CPI (Oct) 08:30 ET / 13:30 ; trend mixed (-10% vs 50d)",
    "note": null,
-   "price": 72.16,
-   "chg_24h_pct": 1.28855,
+   "price": 71.56,
+   "chg_24h_pct": -0.66834,
    "prev_light": "YELLOW"
   },
   {
@@ -136,8 +136,8 @@
    "score": -0.515,
    "reasons": "macro 2026-11-10: US CPI (Oct) 08:30 ET / 13:30 ; trend mixed (-7% vs 50d)",
    "note": null,
-   "price": 691.49,
-   "chg_24h_pct": 2.60722,
+   "price": 687.02,
+   "chg_24h_pct": 0.39671,
    "prev_light": "YELLOW"
   },
   {
@@ -149,8 +149,8 @@
    "score": -0.58,
    "reasons": "macro 2026-11-10: US CPI (Oct) 08:30 ET / 13:30 ; trend mixed (-22% vs 50d)",
    "note": null,
-   "price": 3.65,
-   "chg_24h_pct": 4.96862,
+   "price": 3.63,
+   "chg_24h_pct": 2.66822,
    "prev_light": "YELLOW"
   },
   {
@@ -159,11 +159,11 @@
    "ticker": "IOTA",
    "name": "IOTA",
    "light": "RED",
-   "score": 0.582,
+   "score": 0.495,
    "reasons": "below 200d MA (-22%)",
    "note": null,
-   "price": 0.03508425,
-   "chg_24h_pct": 5.5181,
+   "price": 0.03494665,
+   "chg_24h_pct": 0.24606,
    "prev_light": "RED"
   },
   {
@@ -173,10 +173,10 @@
    "name": "Bitcoin Cash",
    "light": "RED",
    "score": 0.078,
-   "reasons": "below 200d MA (-13%)",
+   "reasons": "below 200d MA (-14%)",
    "note": null,
-   "price": 239.23,
-   "chg_24h_pct": 1.13305,
+   "price": 235.53,
+   "chg_24h_pct": -3.16799,
    "prev_light": "RED"
   },
   {
@@ -186,10 +186,10 @@
    "name": "XRP",
    "light": "RED",
    "score": -0.119,
-   "reasons": "below 200d MA (-13%)",
+   "reasons": "below 200d MA (-15%)",
    "note": null,
-   "price": 1.1,
-   "chg_24h_pct": 1.46915,
+   "price": 1.081,
+   "chg_24h_pct": -1.47464,
    "prev_light": "RED"
   },
   {
@@ -199,10 +199,10 @@
    "name": "Algorand",
    "light": "RED",
    "score": -0.156,
-   "reasons": "below 200d MA (-7%)",
+   "reasons": "below 200d MA (-8%)",
    "note": null,
-   "price": 0.092228,
-   "chg_24h_pct": 2.96094,
+   "price": 0.092147,
+   "chg_24h_pct": -0.96648,
    "prev_light": "RED"
   },
   {
@@ -212,10 +212,10 @@
    "name": "Ethereum",
    "light": "RED",
    "score": -0.187,
-   "reasons": "below 200d MA (-1%)",
+   "reasons": "below 200d MA (-3%)",
    "note": null,
-   "price": 2122.15,
-   "chg_24h_pct": 1.6231,
+   "price": 2096.32,
+   "chg_24h_pct": -1.02573,
    "prev_light": "RED"
   },
   {
@@ -225,10 +225,10 @@
    "name": "Rain",
    "light": "RED",
    "score": -0.208,
-   "reasons": "below 200d MA (-62%); illiquid (vol/mcap 0.48%)",
+   "reasons": "below 200d MA (-66%); illiquid (vol/mcap 0.32%)",
    "note": null,
-   "price": 0.00456489,
-   "chg_24h_pct": -1.08154,
+   "price": 0.00409586,
+   "chg_24h_pct": -10.57352,
    "prev_light": "RED"
   },
   {
@@ -240,8 +240,8 @@
    "score": -0.227,
    "reasons": "below 200d MA (-2%); illiquid (vol/mcap 0.02%)",
    "note": null,
-   "price": 9.34,
-   "chg_24h_pct": 2.52096,
+   "price": 9.27,
+   "chg_24h_pct": -0.31714,
    "prev_light": "RED"
   },
   {
@@ -251,23 +251,10 @@
    "name": "Stellar",
    "light": "RED",
    "score": -0.229,
-   "reasons": "below 200d MA (-18%)",
+   "reasons": "below 200d MA (-21%)",
    "note": null,
-   "price": 0.149419,
-   "chg_24h_pct": 3.4583,
-   "prev_light": "RED"
-  },
-  {
-   "coin": "HBAR",
-   "id": "hedera-hashgraph",
-   "ticker": "HBAR",
-   "name": "Hedera",
-   "light": "RED",
-   "score": -0.284,
-   "reasons": "below 200d MA (-16%)",
-   "note": null,
-   "price": 0.067323,
-   "chg_24h_pct": 2.5162,
+   "price": 0.145102,
+   "chg_24h_pct": -1.24065,
    "prev_light": "RED"
   },
   {
@@ -276,11 +263,24 @@
    "ticker": "SOL",
    "name": "Solana",
    "light": "RED",
-   "score": -0.436,
-   "reasons": "below 200d MA (-3%)",
+   "score": -0.261,
+   "reasons": "below 200d MA (-5%)",
    "note": null,
-   "price": 86.24,
-   "chg_24h_pct": 0.96485,
+   "price": 84.82,
+   "chg_24h_pct": -1.86039,
+   "prev_light": "RED"
+  },
+  {
+   "coin": "HBAR",
+   "id": "hedera-hashgraph",
+   "ticker": "HBAR",
+   "name": "Hedera",
+   "light": "RED",
+   "score": -0.371,
+   "reasons": "below 200d MA (-17%)",
+   "note": null,
+   "price": 0.06672,
+   "chg_24h_pct": -2.63275,
    "prev_light": "RED"
   },
   {
@@ -290,10 +290,10 @@
    "name": "Cardano",
    "light": "RED",
    "score": -0.485,
-   "reasons": "below 200d MA (-13%)",
+   "reasons": "below 200d MA (-14%)",
    "note": null,
-   "price": 0.179351,
-   "chg_24h_pct": 4.10911,
+   "price": 0.177252,
+   "chg_24h_pct": -0.59316,
    "prev_light": "RED"
   },
   {
@@ -305,8 +305,8 @@
    "score": -0.557,
    "reasons": "below 200d MA (-18%)",
    "note": null,
-   "price": 0.070144,
-   "chg_24h_pct": 2.97837,
+   "price": 0.069472,
+   "chg_24h_pct": -0.23315,
    "prev_light": "RED"
   },
   {
@@ -318,8 +318,8 @@
    "score": -0.568,
    "reasons": "below 200d MA (-4%)",
    "note": null,
-   "price": 0.318708,
-   "chg_24h_pct": 0.78871,
+   "price": 0.318778,
+   "chg_24h_pct": 0.45182,
    "prev_light": "RED"
   },
   {
@@ -329,10 +329,10 @@
    "name": "Litecoin",
    "light": "RED",
    "score": -0.697,
-   "reasons": "below 200d MA (-1%)",
+   "reasons": "below 200d MA (-2%)",
    "note": null,
-   "price": 51.51,
-   "chg_24h_pct": 3.25246,
+   "price": 51.22,
+   "chg_24h_pct": -0.24854,
    "prev_light": "RED"
   }
  ],
