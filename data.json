@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-15T07:54:30+00:00",
+ "generated_at": "2026-11-15T14:22:46+01:00",
  "is_sample": false,
  "data_date": "2026-11-15",
  "counts": {
@@ -11,42 +11,29 @@
  "common_note": null,
  "coins": [
   {
+   "coin": "XMR",
+   "id": "monero",
+   "ticker": "XMR",
+   "name": "Monero",
+   "light": "YELLOW",
+   "score": 0.213,
+   "reasons": "7d -16% (momentum broken); trend mixed (-12% vs 50d)",
+   "note": null,
+   "price": 504.65,
+   "chg_24h_pct": -5.09645,
+   "prev_light": "YELLOW"
+  },
+  {
    "coin": "QNT",
    "id": "quant-network",
    "ticker": "QNT",
    "name": "Quant",
    "light": "YELLOW",
    "score": 0.11,
-   "reasons": "7d -25% (momentum broken); trend mixed (-31% vs 50d)",
+   "reasons": "7d -23% (momentum broken); trend mixed (-26% vs 50d)",
    "note": null,
-   "price": 144.87,
-   "chg_24h_pct": -7.4854,
-   "prev_light": "YELLOW"
-  },
-  {
-   "coin": "XMR",
-   "id": "monero",
-   "ticker": "XMR",
-   "name": "Monero",
-   "light": "YELLOW",
-   "score": 0.038,
-   "reasons": "7d -18% (momentum broken); trend mixed (-15% vs 50d)",
-   "note": null,
-   "price": 485.66,
-   "chg_24h_pct": -8.09531,
-   "prev_light": "YELLOW"
-  },
-  {
-   "coin": "NEAR",
-   "id": "near",
-   "ticker": "NEAR",
-   "name": "NEAR Protocol",
-   "light": "YELLOW",
-   "score": -0.017,
-   "reasons": "7d -15% (momentum broken); trend mixed (-31% vs 50d)",
-   "note": null,
-   "price": 3.12,
-   "chg_24h_pct": -5.95374,
+   "price": 155.15,
+   "chg_24h_pct": -1.44741,
    "prev_light": "YELLOW"
   },
   {
@@ -56,10 +43,23 @@
    "name": "Zcash",
    "light": "YELLOW",
    "score": -0.028,
-   "reasons": "7d -29% (momentum broken); event 2026-11-16: Zcash community vote 16-30 Nov on draft proposal t; trend mixed (-27% vs 50d)",
+   "reasons": "7d -28% (momentum broken); event 2026-11-16: Zcash community vote 16-30 Nov on draft proposal t; trend mixed (-25% vs 50d)",
    "note": null,
-   "price": 891.67,
-   "chg_24h_pct": -1.67391,
+   "price": 914.8,
+   "chg_24h_pct": 3.61901,
+   "prev_light": "YELLOW"
+  },
+  {
+   "coin": "NEAR",
+   "id": "near",
+   "ticker": "NEAR",
+   "name": "NEAR Protocol",
+   "light": "YELLOW",
+   "score": -0.192,
+   "reasons": "7d -14% (momentum broken); trend mixed (-30% vs 50d)",
+   "note": null,
+   "price": 3.18,
+   "chg_24h_pct": -4.38702,
    "prev_light": "YELLOW"
   },
   {
@@ -69,10 +69,10 @@
    "name": "Bitcoin",
    "light": "RED",
    "score": 0.888,
-   "reasons": "below 200d MA (-12%)",
+   "reasons": "below 200d MA (-10%)",
    "note": null,
-   "price": 63879.0,
-   "chg_24h_pct": -4.65006,
+   "price": 65581.0,
+   "chg_24h_pct": -1.7287,
    "prev_light": "RED"
   },
   {
@@ -82,10 +82,10 @@
    "name": "Algorand",
    "light": "RED",
    "score": 0.725,
-   "reasons": "below 200d MA (-21%)",
+   "reasons": "below 200d MA (-19%)",
    "note": null,
-   "price": 0.077932,
-   "chg_24h_pct": -5.82426,
+   "price": 0.080242,
+   "chg_24h_pct": -2.28728,
    "prev_light": "RED"
   },
   {
@@ -95,10 +95,10 @@
    "name": "XRP",
    "light": "RED",
    "score": 0.703,
-   "reasons": "below 200d MA (-25%)",
+   "reasons": "below 200d MA (-22%)",
    "note": null,
-   "price": 0.945213,
-   "chg_24h_pct": -3.68415,
+   "price": 0.973032,
+   "chg_24h_pct": -1.60114,
    "prev_light": "RED"
   },
   {
@@ -108,23 +108,10 @@
    "name": "Solana",
    "light": "RED",
    "score": 0.647,
-   "reasons": "below 200d MA (-22%)",
+   "reasons": "below 200d MA (-18%)",
    "note": null,
-   "price": 69.69,
-   "chg_24h_pct": -7.18497,
-   "prev_light": "RED"
-  },
-  {
-   "coin": "AVAX",
-   "id": "avalanche-2",
-   "ticker": "AVAX",
-   "name": "Avalanche",
-   "light": "RED",
-   "score": 0.344,
-   "reasons": "below 200d MA (-12%)",
-   "note": null,
-   "price": 7.14,
-   "chg_24h_pct": -10.68795,
+   "price": 72.97,
+   "chg_24h_pct": -3.31538,
    "prev_light": "RED"
   },
   {
@@ -134,10 +121,10 @@
    "name": "Hyperliquid",
    "light": "RED",
    "score": 0.316,
-   "reasons": "below 200d MA (-6%)",
+   "reasons": "below 200d MA (-1%)",
    "note": null,
-   "price": 64.7,
-   "chg_24h_pct": -6.98055,
+   "price": 68.18,
+   "chg_24h_pct": 0.30627,
    "prev_light": "RED"
   },
   {
@@ -147,10 +134,10 @@
    "name": "Ethereum",
    "light": "RED",
    "score": 0.262,
-   "reasons": "below 200d MA (-17%)",
+   "reasons": "below 200d MA (-14%)",
    "note": null,
-   "price": 1777.09,
-   "chg_24h_pct": -6.11362,
+   "price": 1834.32,
+   "chg_24h_pct": -3.0603,
    "prev_light": "RED"
   },
   {
@@ -160,10 +147,23 @@
    "name": "Cardano",
    "light": "RED",
    "score": 0.199,
-   "reasons": "below 200d MA (-27%)",
+   "reasons": "below 200d MA (-24%)",
    "note": null,
-   "price": 0.149214,
-   "chg_24h_pct": -8.23452,
+   "price": 0.155959,
+   "chg_24h_pct": -3.18701,
+   "prev_light": "RED"
+  },
+  {
+   "coin": "AVAX",
+   "id": "avalanche-2",
+   "ticker": "AVAX",
+   "name": "Avalanche",
+   "light": "RED",
+   "score": 0.169,
+   "reasons": "below 200d MA (-10%)",
+   "note": null,
+   "price": 7.31,
+   "chg_24h_pct": -8.31617,
    "prev_light": "RED"
   },
   {
@@ -173,10 +173,10 @@
    "name": "Hedera",
    "light": "RED",
    "score": -0.069,
-   "reasons": "below 200d MA (-29%)",
+   "reasons": "below 200d MA (-26%)",
    "note": null,
-   "price": 0.056596,
-   "chg_24h_pct": -4.87648,
+   "price": 0.05898,
+   "chg_24h_pct": -1.76031,
    "prev_light": "RED"
   },
   {
@@ -186,10 +186,10 @@
    "name": "Rain",
    "light": "RED",
    "score": -0.164,
-   "reasons": "below 200d MA (-70%); illiquid (vol/mcap 0.50%)",
+   "reasons": "below 200d MA (-69%)",
    "note": null,
-   "price": 0.00362696,
-   "chg_24h_pct": -2.67436,
+   "price": 0.00366216,
+   "chg_24h_pct": -0.80454,
    "prev_light": "RED"
   },
   {
@@ -199,49 +199,10 @@
    "name": "Litecoin",
    "light": "RED",
    "score": -0.206,
-   "reasons": "below 200d MA (-14%)",
+   "reasons": "below 200d MA (-13%)",
    "note": null,
-   "price": 44.59,
-   "chg_24h_pct": -7.31554,
-   "prev_light": "RED"
-  },
-  {
-   "coin": "LINK",
-   "id": "chainlink",
-   "ticker": "LINK",
-   "name": "Chainlink",
-   "light": "RED",
-   "score": -0.219,
-   "reasons": "below 200d MA (-11%)",
-   "note": null,
-   "price": 9.01,
-   "chg_24h_pct": -5.6589,
-   "prev_light": "RED"
-  },
-  {
-   "coin": "BNB",
-   "id": "binancecoin",
-   "ticker": "BNB",
-   "name": "BNB",
-   "light": "RED",
-   "score": -0.236,
-   "reasons": "below 200d MA (-11%)",
-   "note": null,
-   "price": 585.14,
-   "chg_24h_pct": -4.77497,
-   "prev_light": "RED"
-  },
-  {
-   "coin": "DOGE",
-   "id": "dogecoin",
-   "ticker": "DOGE",
-   "name": "Dogecoin",
-   "light": "RED",
-   "score": -0.313,
-   "reasons": "below 200d MA (-32%)",
-   "note": null,
-   "price": 0.057356,
-   "chg_24h_pct": -8.26288,
+   "price": 45.3,
+   "chg_24h_pct": -4.60357,
    "prev_light": "RED"
   },
   {
@@ -251,10 +212,23 @@
    "name": "Bitcoin Cash",
    "light": "RED",
    "score": -0.371,
-   "reasons": "below 200d MA (-25%)",
+   "reasons": "below 200d MA (-22%)",
    "note": null,
-   "price": 202.9,
-   "chg_24h_pct": -5.05794,
+   "price": 211.34,
+   "chg_24h_pct": -2.09327,
+   "prev_light": "RED"
+  },
+  {
+   "coin": "LINK",
+   "id": "chainlink",
+   "ticker": "LINK",
+   "name": "Chainlink",
+   "light": "RED",
+   "score": -0.394,
+   "reasons": "below 200d MA (-8%)",
+   "note": null,
+   "price": 9.33,
+   "chg_24h_pct": -2.09404,
    "prev_light": "RED"
   },
   {
@@ -266,8 +240,34 @@
    "score": -0.394,
    "reasons": "below 200d MA (-8%)",
    "note": null,
-   "price": 0.305867,
-   "chg_24h_pct": -2.12205,
+   "price": 0.30726,
+   "chg_24h_pct": -1.68871,
+   "prev_light": "RED"
+  },
+  {
+   "coin": "BNB",
+   "id": "binancecoin",
+   "ticker": "BNB",
+   "name": "BNB",
+   "light": "RED",
+   "score": -0.411,
+   "reasons": "below 200d MA (-9%)",
+   "note": null,
+   "price": 597.26,
+   "chg_24h_pct": -2.20116,
+   "prev_light": "RED"
+  },
+  {
+   "coin": "DOGE",
+   "id": "dogecoin",
+   "ticker": "DOGE",
+   "name": "Dogecoin",
+   "light": "RED",
+   "score": -0.488,
+   "reasons": "below 200d MA (-30%)",
+   "note": null,
+   "price": 0.059415,
+   "chg_24h_pct": -4.84021,
    "prev_light": "RED"
   },
   {
@@ -280,7 +280,7 @@
    "reasons": "below 200d MA (-4%); illiquid (vol/mcap 0.01%)",
    "note": null,
    "price": 9.12,
-   "chg_24h_pct": -2.12407,
+   "chg_24h_pct": -2.00601,
    "prev_light": "RED"
   },
   {
@@ -292,8 +292,8 @@
    "score": -0.577,
    "reasons": "below 200d MA (-29%)",
    "note": null,
-   "price": 0.03136248,
-   "chg_24h_pct": -6.08335,
+   "price": 0.03150327,
+   "chg_24h_pct": -5.09475,
    "prev_light": "RED"
   },
   {
@@ -303,10 +303,10 @@
    "name": "XDC Network",
    "light": "RED",
    "score": -0.685,
-   "reasons": "below 200d MA (-7%)",
+   "reasons": "below 200d MA (-5%)",
    "note": null,
-   "price": 0.02788991,
-   "chg_24h_pct": -2.29133,
+   "price": 0.02857223,
+   "chg_24h_pct": 1.1861,
    "prev_light": "RED"
   },
   {
@@ -316,10 +316,10 @@
    "name": "Stellar",
    "light": "RED",
    "score": -0.692,
-   "reasons": "below 200d MA (-25%)",
+   "reasons": "below 200d MA (-23%)",
    "note": null,
-   "price": 0.136694,
-   "chg_24h_pct": -4.11763,
+   "price": 0.140552,
+   "chg_24h_pct": -0.96795,
    "prev_light": "RED"
   },
   {
@@ -329,10 +329,10 @@
    "name": "WhiteBIT Coin",
    "light": "RED",
    "score": -0.713,
-   "reasons": "below 200d MA (-4%)",
+   "reasons": "below 200d MA (-2%)",
    "note": null,
-   "price": 61.91,
-   "chg_24h_pct": -5.18848,
+   "price": 63.43,
+   "chg_24h_pct": -2.54755,
    "prev_light": "YELLOW"
   }
  ],
