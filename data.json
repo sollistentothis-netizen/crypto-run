@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-16T08:55:32+01:00",
+ "generated_at": "2026-11-16T14:20:50+01:00",
  "is_sample": false,
  "data_date": "2026-11-16",
  "counts": {
@@ -17,23 +17,10 @@
    "name": "NEAR Protocol",
    "light": "YELLOW",
    "score": -0.157,
-   "reasons": "7d -11% (momentum broken); macro 2026-11-17: US import/export prices (Oct) ; trend mixed (-29% vs 50d)",
+   "reasons": "7d -11% (momentum broken); macro 2026-11-17: US import/export prices (Oct) ; trend mixed (-30% vs 50d)",
    "note": null,
-   "price": 3.19,
-   "chg_24h_pct": 2.36701,
-   "prev_light": "YELLOW"
-  },
-  {
-   "coin": "ZEC",
-   "id": "zcash",
-   "ticker": "ZEC",
-   "name": "Zcash",
-   "light": "YELLOW",
-   "score": -0.318,
-   "reasons": "7d -27% (momentum broken); event 2026-11-16: Zcash community vote 16-30 Nov on draft proposal t; macro 2026-11-17: US import/export prices (Oct) ; trend mixed (-26% vs 50d)",
-   "note": null,
-   "price": 897.36,
-   "chg_24h_pct": 0.69345,
+   "price": 3.14,
+   "chg_24h_pct": -1.34248,
    "prev_light": "YELLOW"
   },
   {
@@ -43,10 +30,23 @@
    "name": "Quant",
    "light": "YELLOW",
    "score": -0.488,
-   "reasons": "7d -22% (momentum broken); macro 2026-11-17: US import/export prices (Oct) ; trend mixed (-25% vs 50d)",
+   "reasons": "7d -25% (momentum broken); macro 2026-11-17: US import/export prices (Oct) ; trend mixed (-26% vs 50d)",
    "note": null,
-   "price": 155.97,
-   "chg_24h_pct": 7.63945,
+   "price": 152.76,
+   "chg_24h_pct": -1.47219,
+   "prev_light": "YELLOW"
+  },
+  {
+   "coin": "ZEC",
+   "id": "zcash",
+   "ticker": "ZEC",
+   "name": "Zcash",
+   "light": "YELLOW",
+   "score": -0.493,
+   "reasons": "7d -29% (momentum broken); event 2026-11-16: Zcash community vote 16-30 Nov on draft proposal t; macro 2026-11-17: US import/export prices (Oct) ; trend mixed (-28% vs 50d)",
+   "note": null,
+   "price": 866.0,
+   "chg_24h_pct": -5.338,
    "prev_light": "YELLOW"
   },
   {
@@ -56,10 +56,10 @@
    "name": "Monero",
    "light": "YELLOW",
    "score": -0.548,
-   "reasons": "7d -19% (momentum broken); macro 2026-11-17: US import/export prices (Oct) ; trend mixed (-14% vs 50d)",
+   "reasons": "7d -16% (momentum broken); macro 2026-11-17: US import/export prices (Oct) ; trend mixed (-12% vs 50d)",
    "note": null,
-   "price": 488.77,
-   "chg_24h_pct": 0.74859,
+   "price": 500.99,
+   "chg_24h_pct": -0.71747,
    "prev_light": "YELLOW"
   },
   {
@@ -68,11 +68,11 @@
    "ticker": "SOL",
    "name": "Solana",
    "light": "RED",
-   "score": 0.73,
+   "score": 0.817,
    "reasons": "below 200d MA (-20%)",
    "note": null,
-   "price": 71.13,
-   "chg_24h_pct": 2.07545,
+   "price": 71.07,
+   "chg_24h_pct": -2.60509,
    "prev_light": "RED"
   },
   {
@@ -84,8 +84,8 @@
    "score": 0.682,
    "reasons": "below 200d MA (-20%)",
    "note": null,
-   "price": 0.078715,
-   "chg_24h_pct": 1.05862,
+   "price": 0.078482,
+   "chg_24h_pct": -2.13855,
    "prev_light": "RED"
   },
   {
@@ -95,10 +95,10 @@
    "name": "Bitcoin",
    "light": "RED",
    "score": 0.437,
-   "reasons": "below 200d MA (-11%)",
+   "reasons": "below 200d MA (-12%)",
    "note": null,
-   "price": 64897.0,
-   "chg_24h_pct": 1.56318,
+   "price": 64212.0,
+   "chg_24h_pct": -2.01284,
    "prev_light": "RED"
   },
   {
@@ -108,10 +108,10 @@
    "name": "BNB",
    "light": "RED",
    "score": -0.108,
-   "reasons": "below 200d MA (-10%)",
+   "reasons": "below 200d MA (-11%)",
    "note": null,
-   "price": 592.43,
-   "chg_24h_pct": 1.15261,
+   "price": 587.78,
+   "chg_24h_pct": -1.595,
    "prev_light": "RED"
   },
   {
@@ -121,10 +121,10 @@
    "name": "Rain",
    "light": "RED",
    "score": -0.116,
-   "reasons": "below 200d MA (-42%); illiquid (vol/mcap 0.41%)",
+   "reasons": "below 200d MA (-50%)",
    "note": null,
-   "price": 0.006923,
-   "chg_24h_pct": 88.44479,
+   "price": 0.00599774,
+   "chg_24h_pct": 63.77676,
    "prev_light": "RED"
   },
   {
@@ -134,10 +134,10 @@
    "name": "Avalanche",
    "light": "RED",
    "score": -0.276,
-   "reasons": "below 200d MA (-11%)",
+   "reasons": "below 200d MA (-12%)",
    "note": null,
-   "price": 7.16,
-   "chg_24h_pct": 0.28685,
+   "price": 7.09,
+   "chg_24h_pct": -2.96878,
    "prev_light": "RED"
   },
   {
@@ -147,10 +147,10 @@
    "name": "Ethereum",
    "light": "RED",
    "score": -0.331,
-   "reasons": "below 200d MA (-15%)",
+   "reasons": "below 200d MA (-16%)",
    "note": null,
-   "price": 1819.24,
-   "chg_24h_pct": 2.35007,
+   "price": 1803.1,
+   "chg_24h_pct": -1.63558,
    "prev_light": "RED"
   },
   {
@@ -160,10 +160,10 @@
    "name": "Cardano",
    "light": "RED",
    "score": -0.374,
-   "reasons": "below 200d MA (-25%)",
+   "reasons": "below 200d MA (-26%)",
    "note": null,
-   "price": 0.153333,
-   "chg_24h_pct": 2.76241,
+   "price": 0.151234,
+   "chg_24h_pct": -3.02171,
    "prev_light": "RED"
   },
   {
@@ -175,8 +175,8 @@
    "score": -0.378,
    "reasons": "below 200d MA (-24%)",
    "note": null,
-   "price": 0.957629,
-   "chg_24h_pct": 1.2097,
+   "price": 0.950958,
+   "chg_24h_pct": -2.24527,
    "prev_light": "RED"
   },
   {
@@ -188,8 +188,8 @@
    "score": -0.398,
    "reasons": "below 200d MA (-3%); illiquid (vol/mcap 0.01%)",
    "note": null,
-   "price": 9.18,
-   "chg_24h_pct": 0.65017,
+   "price": 9.21,
+   "chg_24h_pct": 1.00389,
    "prev_light": "RED"
   },
   {
@@ -199,10 +199,10 @@
    "name": "Litecoin",
    "light": "RED",
    "score": -0.435,
-   "reasons": "below 200d MA (-13%)",
+   "reasons": "below 200d MA (-15%)",
    "note": null,
-   "price": 44.85,
-   "chg_24h_pct": 0.53503,
+   "price": 44.25,
+   "chg_24h_pct": -2.30291,
    "prev_light": "RED"
   },
   {
@@ -212,23 +212,10 @@
    "name": "Hyperliquid",
    "light": "RED",
    "score": -0.469,
-   "reasons": "below 200d MA (-4%)",
+   "reasons": "below 200d MA (-6%)",
    "note": null,
-   "price": 66.47,
-   "chg_24h_pct": 2.7215,
-   "prev_light": "RED"
-  },
-  {
-   "coin": "LINK",
-   "id": "chainlink",
-   "ticker": "LINK",
-   "name": "Chainlink",
-   "light": "RED",
-   "score": -0.537,
-   "reasons": "below 200d MA (-9%)",
-   "note": null,
-   "price": 9.15,
-   "chg_24h_pct": 1.4803,
+   "price": 65.34,
+   "chg_24h_pct": -4.18818,
    "prev_light": "RED"
   },
   {
@@ -240,8 +227,8 @@
    "score": -0.547,
    "reasons": "below 200d MA (-9%)",
    "note": null,
-   "price": 0.302866,
-   "chg_24h_pct": -0.94933,
+   "price": 0.303862,
+   "chg_24h_pct": -1.08506,
    "prev_light": "RED"
   },
   {
@@ -251,10 +238,10 @@
    "name": "Bitcoin Cash",
    "light": "RED",
    "score": -0.577,
-   "reasons": "below 200d MA (-23%)",
+   "reasons": "below 200d MA (-24%)",
    "note": null,
-   "price": 207.91,
-   "chg_24h_pct": 2.33339,
+   "price": 204.94,
+   "chg_24h_pct": -3.03444,
    "prev_light": "RED"
   },
   {
@@ -266,8 +253,8 @@
    "score": -0.65,
    "reasons": "below 200d MA (-30%)",
    "note": null,
-   "price": 0.058831,
-   "chg_24h_pct": 2.57253,
+   "price": 0.058433,
+   "chg_24h_pct": -1.60614,
    "prev_light": "RED"
   },
   {
@@ -277,10 +264,36 @@
    "name": "WhiteBIT Coin",
    "light": "RED",
    "score": -0.684,
-   "reasons": "below 200d MA (-3%)",
+   "reasons": "below 200d MA (-4%)",
    "note": null,
-   "price": 62.86,
-   "chg_24h_pct": 1.47431,
+   "price": 62.2,
+   "chg_24h_pct": -1.89716,
+   "prev_light": "RED"
+  },
+  {
+   "coin": "LINK",
+   "id": "chainlink",
+   "ticker": "LINK",
+   "name": "Chainlink",
+   "light": "RED",
+   "score": -0.712,
+   "reasons": "below 200d MA (-10%)",
+   "note": null,
+   "price": 9.09,
+   "chg_24h_pct": -2.48382,
+   "prev_light": "RED"
+  },
+  {
+   "coin": "XDC",
+   "id": "xdce-crowd-sale",
+   "ticker": "XDC",
+   "name": "XDC Network",
+   "light": "RED",
+   "score": -0.905,
+   "reasons": "below 200d MA (-2%)",
+   "note": null,
+   "price": 0.0292829,
+   "chg_24h_pct": 2.49005,
    "prev_light": "RED"
   },
   {
@@ -290,10 +303,10 @@
    "name": "Hedera",
    "light": "RED",
    "score": -0.933,
-   "reasons": "below 200d MA (-26%)",
+   "reasons": "below 200d MA (-27%)",
    "note": null,
-   "price": 0.058705,
-   "chg_24h_pct": 3.60449,
+   "price": 0.057684,
+   "chg_24h_pct": -2.18784,
    "prev_light": "RED"
   },
   {
@@ -303,10 +316,10 @@
    "name": "IOTA",
    "light": "RED",
    "score": -0.958,
-   "reasons": "below 200d MA (-28%)",
+   "reasons": "below 200d MA (-29%)",
    "note": null,
-   "price": 0.03159865,
-   "chg_24h_pct": 0.5161,
+   "price": 0.03144017,
+   "chg_24h_pct": -0.36514,
    "prev_light": "RED"
   },
   {
@@ -316,23 +329,10 @@
    "name": "Stellar",
    "light": "RED",
    "score": -0.976,
-   "reasons": "below 200d MA (-24%)",
+   "reasons": "below 200d MA (-25%)",
    "note": null,
-   "price": 0.138931,
-   "chg_24h_pct": 1.58379,
-   "prev_light": "RED"
-  },
-  {
-   "coin": "XDC",
-   "id": "xdce-crowd-sale",
-   "ticker": "XDC",
-   "name": "XDC Network",
-   "light": "RED",
-   "score": -0.992,
-   "reasons": "below 200d MA (-1%)",
-   "note": null,
-   "price": 0.02948033,
-   "chg_24h_pct": 5.71484,
+   "price": 0.137018,
+   "chg_24h_pct": -2.47924,
    "prev_light": "RED"
   }
  ],
