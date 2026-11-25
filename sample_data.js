@@ -1,6 +1,6 @@
 window.ORACLE_DATA = {
  "schema": 1,
- "generated_at": "2026-11-25T08:13:21+00:00",
+ "generated_at": "2026-11-25T08:13:35+00:00",
  "is_sample": true,
  "source": "built-in SAMPLE dataset (lights_daily.csv not found)",
  "data_date": null,
